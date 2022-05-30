@@ -12,7 +12,6 @@ https://the-pythor.github.io/dataVIZ_btc/
 ![1](https://user-images.githubusercontent.com/59480837/170942803-04692ec6-3e81-4a86-9518-a72adec0fdeb.png)
 ![2](https://user-images.githubusercontent.com/59480837/170942809-87beb7a3-c144-44ee-916f-063141d1e20f.png)
 ![3](https://user-images.githubusercontent.com/59480837/170942812-c13d562d-eec1-4b12-9667-00a544bc2760.png)
-![4](https://user-images.githubusercontent.com/59480837/170942814-fbbd9c3b-de81-4455-82de-99bcf555224f.png)
 ![5](https://user-images.githubusercontent.com/59480837/170942817-c5f9ef2c-4114-4106-a0b7-8dd9e759f4b4.png)
 ![6](https://user-images.githubusercontent.com/59480837/170942821-2fcf0c86-3c81-4d63-8f3a-84ff235506bc.png)
 ![7](https://user-images.githubusercontent.com/59480837/170942823-c792f681-2056-4ab7-a9ef-80ce9f755e77.png)
