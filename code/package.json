@@ -1,0 +1,14 @@
+{
+  "name": "@the-pythor/bar-chart-race-explained",
+  "main": "388d4c8079de0e60@3034.js",
+  "version": "3034.0.0",
+  "homepage": "https://observablehq.com/@the-pythor/bar-chart-race-explained",
+  "author": {
+    "name": "preet.sutariya",
+    "url": "https://observablehq.com/@the-pythor"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
