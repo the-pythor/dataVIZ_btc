@@ -1,0 +1,1976 @@
+date,name,category,value
+01-01-2000,Coca-Cola,Beverages,72537
+01-01-2000,Microsoft,Technology,70196
+01-01-2000,IBM,Business Services,53183
+01-01-2000,Intel,Technology,39048
+01-01-2000,Nokia,Technology,38528
+01-01-2000,GE,Diversified,38127
+01-01-2000,Ford,Automotive,36368
+01-01-2000,Disney,Media,33553
+01-01-2000,McDonald's,Restaurants,27859
+01-01-2000,AT&T,Telecommunications,25548
+01-01-2000,Marlboro,Tobacco,22110
+01-01-2000,Mercedes-Benz,Automotive,21104
+01-01-2000,HP,Electronics,20572
+01-01-2000,Cisco,Business Services,20067
+01-01-2000,Toyota,Automotive,18823
+01-01-2000,Citi,Financial Services,18809
+01-01-2000,Gillette,FMCG,17358
+01-01-2000,Sony,Electronics,16409
+01-01-2000,American Express,Financial Services,16122
+01-01-2000,Honda,Automotive,15244
+01-01-2000,Compaq,Technology,14602
+01-01-2000,NESCAFÉ,Beverages,13680
+01-01-2000,BMW,Automotive,12969
+01-01-2000,Kodak,Electronics,11822
+01-01-2000,Heinz,FMCG,11742
+01-01-2000,Budweiser,Alcohol,10684
+01-01-2000,Xerox,Business Services,9699
+01-01-2000,Dell,Electronics,9476
+01-01-2000,Gap,Apparel,9316
+01-01-2000,Nike,Sporting Goods,8015
+01-01-2000,Volkswagen,Automotive,7834
+01-01-2000,Ericsson,Electronics,7805
+01-01-2000,Kellogg's,FMCG,7357
+01-01-2000,Louis Vuitton,Luxury,6887
+01-01-2000,Pepsi,Beverages,6636
+01-01-2000,Apple,Technology,6594
+01-01-2000,MTV,Media,6411
+01-01-2000,Yahoo!,Media,6299
+01-01-2000,SAP,Business Services,6135
+01-01-2000,IKEA,Retail,6031
+01-01-2000,Duracell,FMCG,5885
+01-01-2000,Philips,Electronics,5481
+01-01-2000,Samsung,Technology,5223
+01-01-2000,Gucci,Luxury,5149
+01-01-2000,Kleenex,FMCG,5144
+01-01-2000,Reuters,Media,4876
+01-01-2000,AOL,Media,4531
+01-01-2000,Amazon,Technology,4528
+01-01-2000,Motorola,Electronics,4445
+01-01-2000,Colgate,FMCG,4417
+01-01-2000,Wrigley,FMCG,4324
+01-01-2000,Chanel,Luxury,4141
+01-01-2000,adidas,Sporting Goods,3791
+01-01-2000,Panasonic,Electronics,3734
+01-01-2000,Rolex,Luxury,3561
+01-01-2000,Hertz,Automotive,3438
+01-01-2000,Bacardi,Alcohol,3187
+01-01-2000,BP,Energy,3066
+01-01-2000,Moët & Chandon,Alcohol,2799
+01-01-2000,Shell,Energy,2786
+01-01-2000,Burger King,Restaurants,2701
+01-01-2000,Smirnoff,Alcohol,2443
+01-01-2000,Barbie,Toys & Games,2315
+01-01-2000,Heineken,Alcohol,2218
+01-01-2000,Wall Street Journal,Media,2184
+01-01-2000,Ralph Lauren,Apparel,1834
+01-01-2000,Johnnie Walker,Alcohol,1541
+01-01-2000,Hilton,Hospitality,1483
+01-01-2000,Jack Daniel's,Alcohol,1480
+01-01-2000,Armani,Luxury,1456
+01-01-2000,Pampers,FMCG,1400
+01-01-2000,Starbucks,Restaurants,1329
+01-01-2000,Guinness,Alcohol,1224
+01-01-2000,Financial Times,Media,1148
+01-01-2000,Benetton,Apparel,1008
+01-01-2001,Coca-Cola,Beverages,68945
+01-01-2001,Microsoft,Technology,65068
+01-01-2001,IBM,Business Services,52752
+01-01-2001,GE,Diversified,42396
+01-01-2001,Nokia,Technology,35035
+01-01-2001,Intel,Technology,34665
+01-01-2001,Disney,Media,32591
+01-01-2001,Ford,Automotive,30092
+01-01-2001,McDonald's,Restaurants,25289
+01-01-2001,AT&T,Telecommunications,22828
+01-01-2001,Marlboro,Tobacco,22053
+01-01-2001,Mercedes-Benz,Automotive,21728
+01-01-2001,Citi,Financial Services,19005
+01-01-2001,Toyota,Automotive,18578
+01-01-2001,HP,Electronics,17983
+01-01-2001,Cisco,Business Services,17209
+01-01-2001,American Express,Financial Services,16919
+01-01-2001,Gillette,FMCG,15298
+01-01-2001,Merrill Lynch,Financial Services,15015
+01-01-2001,Sony,Electronics,15005
+01-01-2001,Honda,Automotive,14638
+01-01-2001,BMW,Automotive,13858
+01-01-2001,NESCAFÉ,Beverages,13250
+01-01-2001,Compaq,Technology,12354
+01-01-2001,Oracle,Business Services,12224
+01-01-2001,Budweiser,Alcohol,10838
+01-01-2001,Kodak,Electronics,10801
+01-01-2001,"Merck & Co., Inc.",Pharmaceuticals,9672
+01-01-2001,Nintendo,Electronics,9460
+01-01-2001,Pfizer,Pharmaceuticals,8951
+01-01-2001,Gap,Apparel,8746
+01-01-2001,Dell,Electronics,8269
+01-01-2001,Goldman Sachs,Financial Services,7862
+01-01-2001,Nike,Sporting Goods,7589
+01-01-2001,Volkswagen,Automotive,7338
+01-01-2001,Ericsson,Electronics,7069
+01-01-2001,Heinz,FMCG,7062
+01-01-2001,Louis Vuitton,Luxury,7053
+01-01-2001,Kellogg's,FMCG,7005
+01-01-2001,MTV,Media,6599
+01-01-2001,Canon,Electronics,6580
+01-01-2001,Samsung,Technology,6374
+01-01-2001,SAP,Business Services,6307
+01-01-2001,Pepsi,Beverages,6214
+01-01-2001,Xerox,Business Services,6019
+01-01-2001,IKEA,Retail,6005
+01-01-2001,Pizza Hut,Restaurants,5978
+01-01-2001,Harley-Davidson,Automotive,5532
+01-01-2001,Apple,Technology,5464
+01-01-2001,Gucci,Luxury,5363
+01-01-2001,KFC,Restaurants,5261
+01-01-2001,Reuters,Media,5236
+01-01-2001,Sun Microsystems,Business Services,5149
+01-01-2001,Kleenex,FMCG,5085
+01-01-2001,Philips,Electronics,4900
+01-01-2001,Colgate,FMCG,4572
+01-01-2001,Wrigley,FMCG,4530
+01-01-2001,AOL,Media,4495
+01-01-2001,Yahoo!,Media,4378
+01-01-2001,Avon,FMCG,4369
+01-01-2001,Chanel,Luxury,4265
+01-01-2001,Duracell,FMCG,4140
+01-01-2001,Boeing,Diversified,4060
+01-01-2001,Texas Instruments,Technology,4041
+01-01-2001,Kraft,FMCG,4032
+01-01-2001,Motorola,Electronics,3761
+01-01-2001,Levi's,Apparel,3747
+01-01-2001,Time,Media,3724
+01-01-2001,Rolex,Luxury,3701
+01-01-2001,adidas,Sporting Goods,3650
+01-01-2001,Hertz,Automotive,3617
+01-01-2001,Panasonic,Electronics,3490
+01-01-2001,Tiffany & Co.,Luxury,3483
+01-01-2001,BP,Energy,3247
+01-01-2001,Bacardi,Alcohol,3204
+01-01-2001,Amazon,Technology,3130
+01-01-2001,Shell,Energy,2844
+01-01-2001,Smirnoff,Alcohol,2594
+01-01-2001,Moët & Chandon,Alcohol,2470
+01-01-2001,Burger King,Restaurants,2426
+01-01-2001,Mobil,Energy,2415
+01-01-2001,Heineken,Alcohol,2266
+01-01-2001,Wall Street Journal,Media,2184
+01-01-2001,Barbie,Toys & Games,2037
+01-01-2001,Ralph Lauren,Apparel,1910
+01-01-2001,FedEx,Logistics,1885
+01-01-2001,Nivea,FMCG,1782
+01-01-2001,Starbucks,Restaurants,1757
+01-01-2001,Johnnie Walker,Alcohol,1649
+01-01-2001,Jack Daniel's,Alcohol,1583
+01-01-2001,Armani,Luxury,1490
+01-01-2001,Pampers,FMCG,1410
+01-01-2001,Absolut,Alcohol,1378
+01-01-2001,Guinness,Alcohol,1357
+01-01-2001,Financial Times,Media,1310
+01-01-2001,Hilton,Hospitality,1235
+01-01-2001,Carlsberg,Alcohol,1075
+01-01-2001,Siemens,Diversified,1029
+01-01-2001,Swatch,FMCG,1004
+01-01-2001,Benetton,Apparel,1002
+01-01-2002,Coca-Cola,Beverages,69637
+01-01-2002,Microsoft,Technology,64091
+01-01-2002,IBM,Business Services,51188
+01-01-2002,GE,Diversified,41311
+01-01-2002,Intel,Technology,30861
+01-01-2002,Nokia,Technology,29970
+01-01-2002,Disney,Media,29256
+01-01-2002,McDonald's,Restaurants,26375
+01-01-2002,Marlboro,Tobacco,24151
+01-01-2002,Mercedes-Benz,Automotive,21010
+01-01-2002,Ford,Automotive,20403
+01-01-2002,Toyota,Automotive,19448
+01-01-2002,Citi,Financial Services,18066
+01-01-2002,HP,Electronics,16776
+01-01-2002,American Express,Financial Services,16287
+01-01-2002,Cisco,Business Services,16222
+01-01-2002,AT&T,Telecommunications,16059
+01-01-2002,Honda,Automotive,15064
+01-01-2002,Gillette,FMCG,14959
+01-01-2002,BMW,Automotive,14425
+01-01-2002,Sony,Electronics,13899
+01-01-2002,NESCAFÉ,Beverages,12843
+01-01-2002,Oracle,Business Services,11510
+01-01-2002,Budweiser,Alcohol,11349
+01-01-2002,Merrill Lynch,Financial Services,11230
+01-01-2002,Morgan Stanley,Financial Services,11205
+01-01-2002,Compaq,Technology,9803
+01-01-2002,Pfizer,Pharmaceuticals,9770
+01-01-2002,J.P. Morgan,Financial Services,9693
+01-01-2002,Kodak,Electronics,9671
+01-01-2002,Dell,Electronics,9237
+01-01-2002,Nintendo,Electronics,9219
+01-01-2002,"Merck & Co., Inc.",Pharmaceuticals,9138
+01-01-2002,Samsung,Technology,8310
+01-01-2002,Nike,Sporting Goods,7724
+01-01-2002,Gap,Apparel,7406
+01-01-2002,Heinz,FMCG,7347
+01-01-2002,Volkswagen,Automotive,7209
+01-01-2002,Goldman Sachs,Financial Services,7194
+01-01-2002,Kellogg's,FMCG,7191
+01-01-2002,Louis Vuitton,Luxury,7054
+01-01-2002,SAP,Business Services,6775
+01-01-2002,Canon,Electronics,6721
+01-01-2002,IKEA,Retail,6545
+01-01-2002,Pepsi,Beverages,6394
+01-01-2002,Harley-Davidson,Automotive,6266
+01-01-2002,MTV,Media,6078
+01-01-2002,Pizza Hut,Restaurants,6046
+01-01-2002,KFC,Restaurants,5346
+01-01-2002,Apple,Technology,5316
+01-01-2002,Xerox,Business Services,5308
+01-01-2002,Gucci,Luxury,5304
+01-01-2002,Accenture,Business Services,5182
+01-01-2002,L'Oréal,FMCG,5079
+01-01-2002,Kleenex,FMCG,5039
+01-01-2002,Sun Microsystems,Business Services,4773
+01-01-2002,Wrigley,FMCG,4747
+01-01-2002,Reuters,Media,4611
+01-01-2002,Colgate,FMCG,4602
+01-01-2002,Philips,Electronics,4561
+01-01-2002,Nestlé,FMCG,4430
+01-01-2002,Avon,FMCG,4399
+01-01-2002,AOL,Media,4326
+01-01-2002,Chanel,Luxury,4272
+01-01-2002,Kraft,FMCG,4079
+01-01-2002,Danone,FMCG,4054
+01-01-2002,Yahoo!,Media,3855
+01-01-2002,adidas,Sporting Goods,3690
+01-01-2002,Rolex,Luxury,3686
+01-01-2002,Time,Media,3682
+01-01-2002,Ericsson,Electronics,3589
+01-01-2002,Tiffany & Co.,Luxury,3482
+01-01-2002,Levi's,Apparel,3454
+01-01-2002,Motorola,Electronics,3416
+01-01-2002,Duracell,FMCG,3409
+01-01-2002,BP,Energy,3390
+01-01-2002,Hertz,Automotive,3362
+01-01-2002,Bacardi,Alcohol,3341
+01-01-2002,Caterpillar,Diversified,3218
+01-01-2002,Amazon,Technology,3175
+01-01-2002,Panasonic,Electronics,3141
+01-01-2002,Boeing,Diversified,2973
+01-01-2002,Shell,Energy,2810
+01-01-2002,Smirnoff,Alcohol,2723
+01-01-2002,Johnson & Johnson,FMCG,2509
+01-01-2002,Prada,Luxury,2489
+01-01-2002,Moët & Chandon,Alcohol,2445
+01-01-2002,Heineken,Alcohol,2396
+01-01-2002,Mobil,Energy,2358
+01-01-2002,Burger King,Restaurants,2163
+01-01-2002,Nivea,FMCG,2059
+01-01-2002,Wall Street Journal,Media,1961
+01-01-2002,Starbucks,Restaurants,1961
+01-01-2002,Barbie,Toys & Games,1937
+01-01-2002,Ralph Lauren,Apparel,1928
+01-01-2002,FedEx,Logistics,1919
+01-01-2002,Johnnie Walker,Alcohol,1654
+01-01-2002,Jack Daniel's,Alcohol,1580
+01-01-2002,3M,Diversified,1579
+01-01-2002,Armani,Luxury,1509
+01-01-2003,Coca-Cola,Beverages,70453
+01-01-2003,Microsoft,Technology,65174
+01-01-2003,IBM,Business Services,51767
+01-01-2003,GE,Diversified,42340
+01-01-2003,Intel,Technology,31112
+01-01-2003,Nokia,Technology,29440
+01-01-2003,Disney,Media,28036
+01-01-2003,McDonald's,Restaurants,24699
+01-01-2003,Marlboro,Tobacco,22183
+01-01-2003,Mercedes-Benz,Automotive,21371
+01-01-2003,Toyota,Automotive,20784
+01-01-2003,HP,Electronics,19860
+01-01-2003,Citi,Financial Services,18571
+01-01-2003,Ford,Automotive,17066
+01-01-2003,American Express,Financial Services,16833
+01-01-2003,Gillette,FMCG,15978
+01-01-2003,Cisco,Business Services,15789
+01-01-2003,Honda,Automotive,15625
+01-01-2003,BMW,Automotive,15106
+01-01-2003,Sony,Electronics,13153
+01-01-2003,NESCAFÉ,Beverages,12336
+01-01-2003,Budweiser,Alcohol,11894
+01-01-2003,Pepsi,Beverages,11777
+01-01-2003,Oracle,Business Services,11263
+01-01-2003,Samsung,Technology,10846
+01-01-2003,Morgan Stanley,Financial Services,10691
+01-01-2003,Merrill Lynch,Financial Services,10521
+01-01-2003,Pfizer,Pharmaceuticals,10455
+01-01-2003,Dell,Electronics,10367
+01-01-2003,"Merck & Co., Inc.",Pharmaceuticals,9407
+01-01-2003,J.P. Morgan,Financial Services,9120
+01-01-2003,Nintendo,Electronics,8190
+01-01-2003,Nike,Sporting Goods,8167
+01-01-2003,Kodak,Electronics,7826
+01-01-2003,SAP,Business Services,7714
+01-01-2003,Gap,Apparel,7688
+01-01-2003,HSBC,Financial Services,7565
+01-01-2003,Kellogg's,FMCG,7438
+01-01-2003,Canon,Electronics,7192
+01-01-2003,Heinz,FMCG,7097
+01-01-2003,Goldman Sachs,Financial Services,7039
+01-01-2003,Volkswagen,Automotive,6938
+01-01-2003,IKEA,Retail,6918
+01-01-2003,Harley-Davidson,Automotive,6775
+01-01-2003,Louis Vuitton,Luxury,6708
+01-01-2003,MTV,Media,6278
+01-01-2003,L'Oréal,FMCG,5600
+01-01-2003,Xerox,Business Services,5578
+01-01-2003,KFC,Restaurants,5576
+01-01-2003,Apple,Technology,5554
+01-01-2003,Pizza Hut,Restaurants,5312
+01-01-2003,Accenture,Business Services,5301
+01-01-2003,Gucci,Luxury,5100
+01-01-2003,Kleenex,FMCG,5057
+01-01-2003,Wrigley,FMCG,5057
+01-01-2003,Colgate,FMCG,4686
+01-01-2003,Avon,FMCG,4631
+01-01-2003,Sun Microsystems,Business Services,4465
+01-01-2003,Philips,Electronics,4464
+01-01-2003,Nestlé,FMCG,4460
+01-01-2003,Chanel,Luxury,4315
+01-01-2003,Danone,FMCG,4237
+01-01-2003,Kraft,FMCG,4171
+01-01-2003,AOL,Media,3961
+01-01-2003,Yahoo!,Media,3895
+01-01-2003,Time,Media,3784
+01-01-2003,adidas,Sporting Goods,3679
+01-01-2003,Rolex,Luxury,3673
+01-01-2003,BP,Energy,3582
+01-01-2003,Tiffany & Co.,Luxury,3540
+01-01-2003,Duracell,FMCG,3438
+01-01-2003,Bacardi,Alcohol,3431
+01-01-2003,Hermès,Luxury,3416
+01-01-2003,Amazon,Technology,3403
+01-01-2003,Caterpillar,Diversified,3363
+01-01-2003,Reuters,Media,3300
+01-01-2003,Levi's,Apparel,3298
+01-01-2003,Hertz,Automotive,3288
+01-01-2003,Panasonic,Electronics,3257
+01-01-2003,Ericsson,Electronics,3153
+01-01-2003,Motorola,Electronics,3103
+01-01-2003,Hennessy,Alcohol,2996
+01-01-2003,Shell,Energy,2983
+01-01-2003,Boeing,Diversified,2864
+01-01-2003,Smirnoff,Alcohol,2806
+01-01-2003,Johnson & Johnson,FMCG,2706
+01-01-2003,Prada,Luxury,2535
+01-01-2003,Moët & Chandon,Alcohol,2524
+01-01-2003,Nissan,Automotive,2495
+01-01-2003,Heineken,Alcohol,2431
+01-01-2003,Mobil,Energy,2407
+01-01-2003,Nivea,FMCG,2221
+01-01-2003,Starbucks,Restaurants,2136
+01-01-2003,Burger King,Restaurants,2121
+01-01-2003,Ralph Lauren,Apparel,2048
+01-01-2003,FedEx,Logistics,2032
+01-01-2003,Barbie,Toys & Games,1873
+01-01-2003,Wall Street Journal,Media,1763
+01-01-2003,Johnnie Walker,Alcohol,1724
+01-01-2003,Jack Daniel's,Alcohol,1612
+01-01-2004,Coca-Cola,Beverages,67394
+01-01-2004,Microsoft,Technology,61372
+01-01-2004,IBM,Business Services,53791
+01-01-2004,GE,Diversified,44111
+01-01-2004,Intel,Technology,33499
+01-01-2004,Disney,Media,27113
+01-01-2004,McDonald's,Restaurants,25001
+01-01-2004,Nokia,Technology,24041
+01-01-2004,Toyota,Automotive,22673
+01-01-2004,Marlboro,Tobacco,22128
+01-01-2004,Mercedes-Benz,Automotive,21331
+01-01-2004,HP,Electronics,20978
+01-01-2004,Citi,Financial Services,19971
+01-01-2004,American Express,Financial Services,17683
+01-01-2004,Gillette,FMCG,16723
+01-01-2004,Cisco,Business Services,15948
+01-01-2004,BMW,Automotive,15886
+01-01-2004,Honda,Automotive,14874
+01-01-2004,Ford,Automotive,14475
+01-01-2004,Sony,Electronics,12759
+01-01-2004,Samsung,Technology,12553
+01-01-2004,Pepsi,Beverages,12066
+01-01-2004,NESCAFÉ,Beverages,11892
+01-01-2004,Budweiser,Alcohol,11846
+01-01-2004,Dell,Electronics,11500
+01-01-2004,Merrill Lynch,Financial Services,11499
+01-01-2004,Morgan Stanley,Financial Services,11498
+01-01-2004,Oracle,Business Services,10935
+01-01-2004,Pfizer,Pharmaceuticals,10635
+01-01-2004,J.P. Morgan,Financial Services,9782
+01-01-2004,Nike,Sporting Goods,9260
+01-01-2004,"Merck & Co., Inc.",Pharmaceuticals,8811
+01-01-2004,HSBC,Financial Services,8671
+01-01-2004,SAP,Business Services,8323
+01-01-2004,Canon,Electronics,8055
+01-01-2004,Kellogg's,FMCG,8029
+01-01-2004,Goldman Sachs,Financial Services,7954
+01-01-2004,Gap,Apparel,7873
+01-01-2004,Siemens,Diversified,7470
+01-01-2004,IKEA,Retail,7182
+01-01-2004,Harley-Davidson,Automotive,7057
+01-01-2004,Heinz,FMCG,7026
+01-01-2004,Apple,Technology,6871
+01-01-2004,Louis Vuitton,Luxury,6602
+01-01-2004,UBS,Financial Services,6526
+01-01-2004,Nintendo,Electronics,6479
+01-01-2004,MTV,Media,6456
+01-01-2004,Volkswagen,Automotive,6410
+01-01-2004,L'Oréal,FMCG,5902
+01-01-2004,Accenture,Business Services,5772
+01-01-2004,Xerox,Business Services,5696
+01-01-2004,Wrigley,FMCG,5424
+01-01-2004,Kodak,Electronics,5231
+01-01-2004,KFC,Restaurants,5118
+01-01-2004,Pizza Hut,Restaurants,5050
+01-01-2004,Colgate,FMCG,4929
+01-01-2004,Kleenex,FMCG,4881
+01-01-2004,Avon,FMCG,4849
+01-01-2004,Gucci,Luxury,4715
+01-01-2004,eBay,Retail,4700
+01-01-2004,Yahoo!,Media,4545
+01-01-2004,Nestlé,FMCG,4529
+01-01-2004,Danone,FMCG,4488
+01-01-2004,Chanel,Luxury,4416
+01-01-2004,Philips,Electronics,4378
+01-01-2004,Amazon,Technology,4156
+01-01-2004,Kraft,FMCG,4112
+01-01-2004,Caterpillar,Diversified,3801
+01-01-2004,adidas,Sporting Goods,3740
+01-01-2004,Rolex,Luxury,3720
+01-01-2004,Reuters,Media,3691
+01-01-2004,BP,Energy,3662
+01-01-2004,Time,Media,3651
+01-01-2004,Porsche,Automotive,3646
+01-01-2004,Tiffany & Co.,Luxury,3638
+01-01-2004,Motorola,Electronics,3483
+01-01-2004,Panasonic,Electronics,3480
+01-01-2004,Hertz,Automotive,3411
+01-01-2004,Hermès,Luxury,3376
+01-01-2004,Duracell,FMCG,3362
+01-01-2004,Audi,Automotive,3288
+01-01-2004,AOL,Media,3248
+01-01-2004,Hennessy,Alcohol,3084
+01-01-2004,Shell,Energy,2985
+01-01-2004,Levi's,Apparel,2979
+01-01-2004,Smirnoff,Alcohol,2975
+01-01-2004,Johnson & Johnson,FMCG,2952
+01-01-2004,ING,Financial Services,2864
+01-01-2004,Moët & Chandon,Alcohol,2861
+01-01-2004,Nissan,Automotive,2833
+01-01-2004,Cartier,Luxury,2749
+01-01-2004,Estee Lauder,FMCG,2634
+01-01-2004,Armani,Luxury,2613
+01-01-2004,Boeing,Diversified,2576
+01-01-2004,Prada,Luxury,2568
+01-01-2004,Mobil,Energy,2492
+01-01-2004,Nivea,FMCG,2409
+01-01-2004,Starbucks,Restaurants,2400
+01-01-2004,Heineken,Alcohol,2380
+01-01-2004,Ralph Lauren,Apparel,2147
+01-01-2005,Coca-Cola,Beverages,67525
+01-01-2005,Microsoft,Technology,59941
+01-01-2005,IBM,Business Services,53376
+01-01-2005,GE,Diversified,46996
+01-01-2005,Intel,Technology,35588
+01-01-2005,Nokia,Technology,26452
+01-01-2005,Disney,Media,26441
+01-01-2005,McDonald's,Restaurants,26014
+01-01-2005,Toyota,Automotive,24837
+01-01-2005,Marlboro,Tobacco,21189
+01-01-2005,Mercedes-Benz,Automotive,20006
+01-01-2005,Citi,Financial Services,19967
+01-01-2005,HP,Electronics,18866
+01-01-2005,American Express,Financial Services,18559
+01-01-2005,Gillette,FMCG,17534
+01-01-2005,BMW,Automotive,17126
+01-01-2005,Cisco,Business Services,16592
+01-01-2005,Louis Vuitton,Luxury,16077
+01-01-2005,Honda,Automotive,15788
+01-01-2005,Samsung,Technology,14956
+01-01-2005,Dell,Electronics,13231
+01-01-2005,Ford,Automotive,13159
+01-01-2005,Pepsi,Beverages,12399
+01-01-2005,NESCAFÉ,Beverages,12241
+01-01-2005,Merrill Lynch,Financial Services,12018
+01-01-2005,Budweiser,Alcohol,11878
+01-01-2005,Oracle,Business Services,10887
+01-01-2005,Sony,Electronics,10754
+01-01-2005,HSBC,Financial Services,10429
+01-01-2005,Nike,Sporting Goods,10114
+01-01-2005,Pfizer,Pharmaceuticals,9981
+01-01-2005,UPS,Logistics,9923
+01-01-2005,Morgan Stanley,Financial Services,9777
+01-01-2005,J.P. Morgan,Financial Services,9455
+01-01-2005,Canon,Electronics,9044
+01-01-2005,SAP,Business Services,9006
+01-01-2005,Goldman Sachs,Financial Services,8495
+01-01-2005,Google,Technology,8461
+01-01-2005,Kellogg's,FMCG,8306
+01-01-2005,Gap,Apparel,8195
+01-01-2005,Apple,Technology,7985
+01-01-2005,IKEA,Retail,7817
+01-01-2005,Novartis,Pharmaceuticals,7746
+01-01-2005,UBS,Financial Services,7565
+01-01-2005,Siemens,Diversified,7507
+01-01-2005,Harley-Davidson,Automotive,7346
+01-01-2005,Heinz,FMCG,6932
+01-01-2005,MTV,Media,6647
+01-01-2005,Gucci,Luxury,6619
+01-01-2005,Nintendo,Electronics,6470
+01-01-2005,Accenture,Business Services,6142
+01-01-2005,L'Oréal,FMCG,6005
+01-01-2005,Philips,Electronics,5901
+01-01-2005,Xerox,Business Services,5705
+01-01-2005,eBay,Retail,5701
+01-01-2005,Volkswagen,Automotive,5617
+01-01-2005,Wrigley,FMCG,5543
+01-01-2005,Yahoo!,Media,5256
+01-01-2005,Avon,FMCG,5213
+01-01-2005,Colgate,FMCG,5186
+01-01-2005,KFC,Restaurants,5112
+01-01-2005,Kodak,Electronics,4979
+01-01-2005,Pizza Hut,Restaurants,4963
+01-01-2005,Kleenex,FMCG,4922
+01-01-2005,Chanel,Luxury,4778
+01-01-2005,Nestlé,FMCG,4744
+01-01-2005,Danone,FMCG,4513
+01-01-2005,Amazon,Technology,4248
+01-01-2005,Kraft,FMCG,4238
+01-01-2005,Caterpillar,Diversified,4085
+01-01-2005,adidas,Sporting Goods,4033
+01-01-2005,Rolex,Luxury,3906
+01-01-2005,Motorola,Electronics,3877
+01-01-2005,Reuters,Media,3866
+01-01-2005,BP,Energy,3802
+01-01-2005,Porsche,Automotive,3777
+01-01-2005,Zara,Apparel,3730
+01-01-2005,Panasonic,Electronics,3714
+01-01-2005,Audi,Automotive,3686
+01-01-2005,Duracell,FMCG,3679
+01-01-2005,Tiffany & Co.,Luxury,3618
+01-01-2005,Hermès,Luxury,3540
+01-01-2005,Hertz,Automotive,3521
+01-01-2005,Hyundai,Automotive,3480
+01-01-2005,Nissan,Automotive,3203
+01-01-2005,Hennessy,Alcohol,3201
+01-01-2005,ING,Financial Services,3177
+01-01-2005,Smirnoff,Alcohol,3097
+01-01-2005,Cartier,Luxury,3050
+01-01-2005,Shell,Energy,3048
+01-01-2005,Johnson & Johnson,FMCG,3040
+01-01-2005,Moët & Chandon,Alcohol,2991
+01-01-2005,Prada,Luxury,2760
+01-01-2005,Bulgari,Luxury,2715
+01-01-2005,Armani,Luxury,2677
+01-01-2005,Levi's,Apparel,2655
+01-01-2005,LG,Electronics,2645
+01-01-2005,Nivea,FMCG,2576
+01-01-2005,Starbucks,Restaurants,2576
+01-01-2005,Heineken,Alcohol,2357
+01-01-2006,Coca-Cola,Beverages,67000
+01-01-2006,Microsoft,Technology,56926
+01-01-2006,IBM,Business Services,56201
+01-01-2006,GE,Diversified,48907
+01-01-2006,Intel,Technology,32319
+01-01-2006,Nokia,Technology,30131
+01-01-2006,Toyota,Automotive,27941
+01-01-2006,Disney,Media,27848
+01-01-2006,McDonald's,Restaurants,27501
+01-01-2006,Mercedes-Benz,Automotive,21795
+01-01-2006,Citi,Financial Services,21458
+01-01-2006,Marlboro,Tobacco,21350
+01-01-2006,HP,Electronics,20458
+01-01-2006,American Express,Financial Services,19641
+01-01-2006,BMW,Automotive,19617
+01-01-2006,Gillette,FMCG,19579
+01-01-2006,Louis Vuitton,Luxury,17606
+01-01-2006,Cisco,Business Services,17532
+01-01-2006,Honda,Automotive,17049
+01-01-2006,Samsung,Technology,16169
+01-01-2006,Merrill Lynch,Financial Services,13001
+01-01-2006,Pepsi,Beverages,12690
+01-01-2006,NESCAFÉ,Beverages,12507
+01-01-2006,Google,Technology,12376
+01-01-2006,Dell,Electronics,12256
+01-01-2006,Sony,Electronics,11695
+01-01-2006,Budweiser,Alcohol,11662
+01-01-2006,HSBC,Financial Services,11622
+01-01-2006,Oracle,Business Services,11459
+01-01-2006,Ford,Automotive,11056
+01-01-2006,Nike,Sporting Goods,10897
+01-01-2006,UPS,Logistics,10712
+01-01-2006,J.P. Morgan,Financial Services,10205
+01-01-2006,SAP,Business Services,10007
+01-01-2006,Canon,Electronics,9968
+01-01-2006,Morgan Stanley,Financial Services,9762
+01-01-2006,Goldman Sachs,Financial Services,9640
+01-01-2006,Pfizer,Pharmaceuticals,9591
+01-01-2006,Apple,Technology,9130
+01-01-2006,Kellogg's,FMCG,8776
+01-01-2006,IKEA,Retail,8763
+01-01-2006,UBS,Financial Services,8734
+01-01-2006,Novartis,Pharmaceuticals,7880
+01-01-2006,Siemens,Diversified,7828
+01-01-2006,Harley-Davidson,Automotive,7739
+01-01-2006,Gucci,Luxury,7158
+01-01-2006,eBay,Retail,6755
+01-01-2006,Philips,Electronics,6730
+01-01-2006,Accenture,Business Services,6728
+01-01-2006,MTV,Media,6627
+01-01-2006,Nintendo,Electronics,6559
+01-01-2006,Gap,Apparel,6416
+01-01-2006,L'Oréal,FMCG,6392
+01-01-2006,Heinz,FMCG,6223
+01-01-2006,Yahoo!,Media,6056
+01-01-2006,Volkswagen,Automotive,6032
+01-01-2006,Xerox,Business Services,5918
+01-01-2006,Colgate,FMCG,5633
+01-01-2006,Wrigley,FMCG,5449
+01-01-2006,KFC,Restaurants,5350
+01-01-2006,Chanel,Luxury,5156
+01-01-2006,Avon,FMCG,5040
+01-01-2006,Nestlé,FMCG,4932
+01-01-2006,Kleenex,FMCG,4842
+01-01-2006,Amazon,Technology,4707
+01-01-2006,Pizza Hut,Restaurants,4694
+01-01-2006,Danone,FMCG,4638
+01-01-2006,Caterpillar,Diversified,4580
+01-01-2006,Motorola,Electronics,4569
+01-01-2006,Kodak,Electronics,4406
+01-01-2006,adidas,Sporting Goods,4290
+01-01-2006,Rolex,Luxury,4237
+01-01-2006,Zara,Apparel,4235
+01-01-2006,Audi,Automotive,4165
+01-01-2006,Hyundai,Automotive,4078
+01-01-2006,BP,Energy,4010
+01-01-2006,Panasonic,Electronics,3977
+01-01-2006,Reuters,Media,3961
+01-01-2006,Kraft,FMCG,3943
+01-01-2006,Porsche,Automotive,3927
+01-01-2006,Hermès,Luxury,3854
+01-01-2006,Tiffany & Co.,Luxury,3819
+01-01-2006,Hennessy,Alcohol,3576
+01-01-2006,Duracell,FMCG,3576
+01-01-2006,ING,Financial Services,3474
+01-01-2006,Cartier,Luxury,3360
+01-01-2006,Moët & Chandon,Alcohol,3257
+01-01-2006,Johnson & Johnson,FMCG,3193
+01-01-2006,Shell,Energy,3173
+01-01-2006,Nissan,Automotive,3108
+01-01-2006,Starbucks,Restaurants,3099
+01-01-2006,Lexus,Automotive,3070
+01-01-2006,Smirnoff,Alcohol,3032
+01-01-2006,LG,Electronics,3010
+01-01-2006,Bulgari,Luxury,2875
+01-01-2006,Prada,Luxury,2874
+01-01-2006,Armani,Luxury,2783
+01-01-2006,Burberry,Luxury,2783
+01-01-2006,Nivea,FMCG,2692
+01-01-2006,Levi's,Apparel,2689
+01-01-2007,Coca-Cola,Beverages,65324
+01-01-2007,Microsoft,Technology,58709
+01-01-2007,IBM,Business Services,57090
+01-01-2007,GE,Diversified,51569
+01-01-2007,Nokia,Technology,33696
+01-01-2007,Toyota,Automotive,32070
+01-01-2007,Intel,Technology,30954
+01-01-2007,McDonald's,Restaurants,29398
+01-01-2007,Disney,Media,29210
+01-01-2007,Mercedes-Benz,Automotive,23568
+01-01-2007,Citi,Financial Services,23442
+01-01-2007,HP,Electronics,22197
+01-01-2007,BMW,Automotive,21612
+01-01-2007,Marlboro,Tobacco,21282
+01-01-2007,American Express,Financial Services,20827
+01-01-2007,Gillette,FMCG,20415
+01-01-2007,Louis Vuitton,Luxury,20321
+01-01-2007,Cisco,Business Services,19099
+01-01-2007,Honda,Automotive,17998
+01-01-2007,Google,Technology,17837
+01-01-2007,Samsung,Technology,16853
+01-01-2007,Merrill Lynch,Financial Services,14343
+01-01-2007,HSBC,Financial Services,13563
+01-01-2007,NESCAFÉ,Beverages,12950
+01-01-2007,Sony,Electronics,12907
+01-01-2007,Pepsi,Beverages,12888
+01-01-2007,Oracle,Business Services,12448
+01-01-2007,UPS,Logistics,12013
+01-01-2007,Nike,Sporting Goods,12003
+01-01-2007,Budweiser,Alcohol,11652
+01-01-2007,Dell,Electronics,11554
+01-01-2007,J.P. Morgan,Financial Services,11433
+01-01-2007,Apple,Technology,11037
+01-01-2007,SAP,Business Services,10850
+01-01-2007,Goldman Sachs,Financial Services,10663
+01-01-2007,Canon,Electronics,10581
+01-01-2007,Morgan Stanley,Financial Services,10340
+01-01-2007,IKEA,Retail,10087
+01-01-2007,UBS,Financial Services,9838
+01-01-2007,Kellogg's,FMCG,9341
+01-01-2007,Ford,Automotive,8982
+01-01-2007,Philips,Electronics,7741
+01-01-2007,Siemens,Diversified,7737
+01-01-2007,Nintendo,Electronics,7730
+01-01-2007,Harley-Davidson,Automotive,7718
+01-01-2007,Gucci,Luxury,7697
+01-01-2007,AIG,Financial Services,7490
+01-01-2007,eBay,Retail,7456
+01-01-2007,AXA,Financial Services,7327
+01-01-2007,Accenture,Business Services,7296
+01-01-2007,L'Oréal,FMCG,7045
+01-01-2007,MTV,Media,6907
+01-01-2007,Heinz,FMCG,6544
+01-01-2007,Volkswagen,Automotive,6511
+01-01-2007,Yahoo!,Media,6067
+01-01-2007,Xerox,Business Services,6050
+01-01-2007,Colgate,FMCG,6025
+01-01-2007,Chanel,Luxury,5830
+01-01-2007,Wrigley,FMCG,5777
+01-01-2007,KFC,Restaurants,5682
+01-01-2007,Gap,Apparel,5481
+01-01-2007,Amazon,Technology,5411
+01-01-2007,Nestlé,FMCG,5314
+01-01-2007,Zara,Apparel,5165
+01-01-2007,Avon,FMCG,5103
+01-01-2007,Caterpillar,Diversified,5059
+01-01-2007,Danone,FMCG,5019
+01-01-2007,Audi,Automotive,4866
+01-01-2007,adidas,Sporting Goods,4767
+01-01-2007,Kleenex,FMCG,4600
+01-01-2007,Rolex,Luxury,4589
+01-01-2007,Hyundai,Automotive,4453
+01-01-2007,Hermès,Luxury,4255
+01-01-2007,Pizza Hut,Restaurants,4254
+01-01-2007,Porsche,Automotive,4235
+01-01-2007,Reuters,Media,4197
+01-01-2007,Motorola,Electronics,4149
+01-01-2007,Panasonic,Electronics,4135
+01-01-2007,Tiffany & Co.,Luxury,4003
+01-01-2007,Allianz,Financial Services,3957
+01-01-2007,ING,Financial Services,3880
+01-01-2007,Kodak,Electronics,3874
+01-01-2007,Cartier,Luxury,3852
+01-01-2007,BP,Energy,3794
+01-01-2007,Moët & Chandon,Alcohol,3739
+01-01-2007,Kraft,FMCG,3732
+01-01-2007,Hennessy,Alcohol,3638
+01-01-2007,Starbucks,Restaurants,3631
+01-01-2007,Duracell,FMCG,3605
+01-01-2007,Johnson & Johnson,FMCG,3445
+01-01-2007,Smirnoff,Alcohol,3379
+01-01-2007,Lexus,Automotive,3354
+01-01-2007,Shell,Energy,3331
+01-01-2007,Prada,Luxury,3286
+01-01-2007,Burberry,Luxury,3221
+01-01-2007,Nivea,FMCG,3116
+01-01-2007,LG,Electronics,3100
+01-01-2007,Nissan,Automotive,3072
+01-01-2007,Ralph Lauren,Apparel,3046
+01-01-2007,Hertz,Automotive,3026
+01-01-2008,Coca-Cola,Beverages,66667
+01-01-2008,IBM,Business Services,59031
+01-01-2008,Microsoft,Technology,59007
+01-01-2008,GE,Diversified,53086
+01-01-2008,Nokia,Technology,35942
+01-01-2008,Toyota,Automotive,34050
+01-01-2008,Intel,Technology,31261
+01-01-2008,McDonald's,Restaurants,31049
+01-01-2008,Disney,Media,29251
+01-01-2008,Google,Technology,25590
+01-01-2008,Mercedes-Benz,Automotive,25577
+01-01-2008,HP,Electronics,23509
+01-01-2008,BMW,Automotive,23298
+01-01-2008,Gillette,FMCG,22689
+01-01-2008,American Express,Financial Services,21940
+01-01-2008,Louis Vuitton,Luxury,21602
+01-01-2008,Cisco,Business Services,21306
+01-01-2008,Marlboro,Tobacco,21300
+01-01-2008,Citi,Financial Services,20174
+01-01-2008,Honda,Automotive,19079
+01-01-2008,Samsung,Technology,17689
+01-01-2008,H&M,Apparel,13840
+01-01-2008,Oracle,Business Services,13831
+01-01-2008,Apple,Technology,13724
+01-01-2008,Sony,Electronics,13583
+01-01-2008,Pepsi,Beverages,13249
+01-01-2008,HSBC,Financial Services,13143
+01-01-2008,NESCAFÉ,Beverages,13056
+01-01-2008,Nike,Sporting Goods,12672
+01-01-2008,UPS,Logistics,12621
+01-01-2008,SAP,Business Services,12228
+01-01-2008,Dell,Electronics,11695
+01-01-2008,Budweiser,Alcohol,11438
+01-01-2008,Merrill Lynch,Financial Services,11399
+01-01-2008,IKEA,Retail,10913
+01-01-2008,Canon,Electronics,10876
+01-01-2008,J.P. Morgan,Financial Services,10773
+01-01-2008,Goldman Sachs,Financial Services,10331
+01-01-2008,Kellogg's,FMCG,9710
+01-01-2008,Nintendo,Electronics,8772
+01-01-2008,UBS,Financial Services,8740
+01-01-2008,Morgan Stanley,Financial Services,8696
+01-01-2008,Philips,Electronics,8325
+01-01-2008,Thomson Reuters,Media,8313
+01-01-2008,Gucci,Luxury,8254
+01-01-2008,eBay,Retail,7991
+01-01-2008,Accenture,Business Services,7948
+01-01-2008,Siemens,Diversified,7943
+01-01-2008,Ford,Automotive,7896
+01-01-2008,Harley-Davidson,Automotive,7609
+01-01-2008,L'Oréal,FMCG,7508
+01-01-2008,MTV,Media,7193
+01-01-2008,Volkswagen,Automotive,7047
+01-01-2008,AIG,Financial Services,7022
+01-01-2008,AXA,Financial Services,7001
+01-01-2008,Heinz,FMCG,6646
+01-01-2008,Colgate,FMCG,6437
+01-01-2008,Amazon,Technology,6434
+01-01-2008,Xerox,Business Services,6393
+01-01-2008,Chanel,Luxury,6355
+01-01-2008,Wrigley,FMCG,6105
+01-01-2008,Zara,Apparel,5955
+01-01-2008,Nestlé,FMCG,5592
+01-01-2008,KFC,Restaurants,5582
+01-01-2008,Yahoo!,Media,5496
+01-01-2008,Danone,FMCG,5408
+01-01-2008,Audi,Automotive,5407
+01-01-2008,Caterpillar,Diversified,5288
+01-01-2008,Avon,FMCG,5264
+01-01-2008,adidas,Sporting Goods,5072
+01-01-2008,Rolex,Luxury,4956
+01-01-2008,Hyundai,Automotive,4846
+01-01-2008,BlackBerry,Electronics,4802
+01-01-2008,Kleenex,FMCG,4636
+01-01-2008,Porsche,Automotive,4603
+01-01-2008,Hermès,Luxury,4575
+01-01-2008,Gap,Apparel,4357
+01-01-2008,Panasonic,Electronics,4281
+01-01-2008,Cartier,Luxury,4236
+01-01-2008,Tiffany & Co.,Luxury,4208
+01-01-2008,Pizza Hut,Restaurants,4097
+01-01-2008,Allianz,Financial Services,4033
+01-01-2008,Moët & Chandon,Alcohol,3951
+01-01-2008,BP,Energy,3911
+01-01-2008,Starbucks,Restaurants,3879
+01-01-2008,ING,Financial Services,3768
+01-01-2008,Motorola,Electronics,3721
+01-01-2008,Duracell,FMCG,3682
+01-01-2008,Smirnoff,Alcohol,3590
+01-01-2008,Lexus,Automotive,3588
+01-01-2008,Prada,Luxury,3585
+01-01-2008,Johnson & Johnson,FMCG,3582
+01-01-2008,Ferrari,Automotive,3527
+01-01-2008,Armani,Luxury,3526
+01-01-2008,Hennessy,Alcohol,3513
+01-01-2008,Marriott,Hospitality,3502
+01-01-2008,Shell,Energy,3471
+01-01-2008,Nivea,FMCG,3401
+01-01-2008,FedEx,Logistics,3359
+01-01-2008,Visa,Financial Services,3338
+01-01-2009,Coca-Cola,Beverages,68734
+01-01-2009,IBM,Business Services,60211
+01-01-2009,Microsoft,Technology,56647
+01-01-2009,GE,Diversified,47777
+01-01-2009,Nokia,Technology,34864
+01-01-2009,McDonald's,Restaurants,32275
+01-01-2009,Google,Technology,31980
+01-01-2009,Toyota,Automotive,31330
+01-01-2009,Intel,Technology,30636
+01-01-2009,Disney,Media,28447
+01-01-2009,HP,Electronics,24096
+01-01-2009,Mercedes-Benz,Automotive,23867
+01-01-2009,Gillette,FMCG,22841
+01-01-2009,Cisco,Business Services,22030
+01-01-2009,BMW,Automotive,21671
+01-01-2009,Louis Vuitton,Luxury,21120
+01-01-2009,Marlboro,Tobacco,19010
+01-01-2009,Honda,Automotive,17803
+01-01-2009,Samsung,Technology,17518
+01-01-2009,Apple,Technology,15433
+01-01-2009,H&M,Apparel,15375
+01-01-2009,American Express,Financial Services,14971
+01-01-2009,Pepsi,Beverages,13706
+01-01-2009,Oracle,Business Services,13699
+01-01-2009,NESCAFÉ,Beverages,13317
+01-01-2009,Nike,Sporting Goods,13179
+01-01-2009,SAP,Business Services,12106
+01-01-2009,IKEA,Retail,12004
+01-01-2009,Sony,Electronics,11953
+01-01-2009,Budweiser,Alcohol,11833
+01-01-2009,UPS,Logistics,11594
+01-01-2009,HSBC,Financial Services,10510
+01-01-2009,Canon,Electronics,10441
+01-01-2009,Kellogg's,FMCG,10428
+01-01-2009,Dell,Electronics,10291
+01-01-2009,Citi,Financial Services,10254
+01-01-2009,J.P. Morgan,Financial Services,9550
+01-01-2009,Goldman Sachs,Financial Services,9248
+01-01-2009,Nintendo,Electronics,9210
+01-01-2009,Thomson Reuters,Media,8434
+01-01-2009,Gucci,Luxury,8182
+01-01-2009,Philips,Electronics,8121
+01-01-2009,Amazon,Technology,7858
+01-01-2009,L'Oréal,FMCG,7748
+01-01-2009,Accenture,Business Services,7710
+01-01-2009,eBay,Retail,7350
+01-01-2009,Siemens,Diversified,7308
+01-01-2009,Heinz,FMCG,7244
+01-01-2009,Ford,Automotive,7005
+01-01-2009,Zara,Apparel,6789
+01-01-2009,Wrigley,FMCG,6731
+01-01-2009,Colgate,FMCG,6550
+01-01-2009,AXA,Financial Services,6525
+01-01-2009,MTV,Media,6523
+01-01-2009,Volkswagen,Automotive,6484
+01-01-2009,Xerox,Business Services,6431
+01-01-2009,Morgan Stanley,Financial Services,6399
+01-01-2009,Nestlé,FMCG,6319
+01-01-2009,Chanel,Luxury,6040
+01-01-2009,Danone,FMCG,5960
+01-01-2009,KFC,Restaurants,5722
+01-01-2009,adidas,Sporting Goods,5397
+01-01-2009,BlackBerry,Electronics,5138
+01-01-2009,Yahoo!,Media,5111
+01-01-2009,Audi,Automotive,5010
+01-01-2009,Caterpillar,Diversified,5004
+01-01-2009,Avon,FMCG,4917
+01-01-2009,Rolex,Luxury,4609
+01-01-2009,Hyundai,Automotive,4604
+01-01-2009,Hermès,Luxury,4598
+01-01-2009,Kleenex,FMCG,4404
+01-01-2009,UBS,Financial Services,4370
+01-01-2009,Harley-Davidson,Automotive,4337
+01-01-2009,Porsche,Automotive,4234
+01-01-2009,Panasonic,Electronics,4225
+01-01-2009,Tiffany & Co.,Luxury,4000
+01-01-2009,Cartier,Luxury,3968
+01-01-2009,Gap,Apparel,3922
+01-01-2009,Pizza Hut,Restaurants,3876
+01-01-2009,Johnson & Johnson,FMCG,3847
+01-01-2009,Allianz,Financial Services,3831
+01-01-2009,Moët & Chandon,Alcohol,3754
+01-01-2009,BP,Energy,3716
+01-01-2009,Smirnoff,Alcohol,3698
+01-01-2009,Duracell,FMCG,3563
+01-01-2009,Nivea,FMCG,3557
+01-01-2009,Prada,Luxury,3530
+01-01-2009,Ferrari,Automotive,3527
+01-01-2009,Armani,Luxury,3303
+01-01-2009,Starbucks,Restaurants,3263
+01-01-2009,Lancôme,FMCG,3235
+01-01-2009,Shell,Energy,3228
+01-01-2009,Burger King,Restaurants,3223
+01-01-2009,Visa,Financial Services,3170
+01-01-2009,Adobe,Business Services,3161
+01-01-2009,Lexus,Automotive,3158
+01-01-2009,Puma,Sporting Goods,3154
+01-01-2009,Burberry,Luxury,3095
+01-01-2009,Ralph Lauren,Apparel,3094
+01-01-2009,Campbell's,FMCG,3081
+01-01-2010,Coca-Cola,Beverages,70452
+01-01-2010,IBM,Business Services,64727
+01-01-2010,Microsoft,Technology,60895
+01-01-2010,Google,Technology,43557
+01-01-2010,GE,Diversified,42808
+01-01-2010,McDonald's,Restaurants,33578
+01-01-2010,Intel,Technology,32015
+01-01-2010,Nokia,Technology,29495
+01-01-2010,Disney,Media,28731
+01-01-2010,HP,Electronics,26867
+01-01-2010,Toyota,Automotive,26192
+01-01-2010,Mercedes-Benz,Automotive,25179
+01-01-2010,Gillette,FMCG,23298
+01-01-2010,Cisco,Business Services,23219
+01-01-2010,BMW,Automotive,22322
+01-01-2010,Louis Vuitton,Luxury,21860
+01-01-2010,Apple,Technology,21143
+01-01-2010,Marlboro,Tobacco,19961
+01-01-2010,Samsung,Technology,19491
+01-01-2010,Honda,Automotive,18506
+01-01-2010,H&M,Apparel,16136
+01-01-2010,Oracle,Business Services,14881
+01-01-2010,Pepsi,Beverages,14061
+01-01-2010,American Express,Financial Services,13944
+01-01-2010,Nike,Sporting Goods,13706
+01-01-2010,SAP,Business Services,12756
+01-01-2010,NESCAFÉ,Beverages,12753
+01-01-2010,IKEA,Retail,12487
+01-01-2010,J.P. Morgan,Financial Services,12314
+01-01-2010,Budweiser,Alcohol,12252
+01-01-2010,UPS,Logistics,11826
+01-01-2010,HSBC,Financial Services,11561
+01-01-2010,Canon,Electronics,11485
+01-01-2010,Sony,Electronics,11356
+01-01-2010,Kellogg's,FMCG,11041
+01-01-2010,Amazon,Technology,9665
+01-01-2010,Goldman Sachs,Financial Services,9372
+01-01-2010,Nintendo,Electronics,8990
+01-01-2010,Thomson Reuters,Media,8976
+01-01-2010,Citi,Financial Services,8887
+01-01-2010,Dell,Electronics,8880
+01-01-2010,Philips,Electronics,8696
+01-01-2010,eBay,Retail,8453
+01-01-2010,Gucci,Luxury,8346
+01-01-2010,L'Oréal,FMCG,7981
+01-01-2010,Heinz,FMCG,7534
+01-01-2010,Accenture,Business Services,7481
+01-01-2010,Zara,Apparel,7468
+01-01-2010,Siemens,Diversified,7315
+01-01-2010,Ford,Automotive,7195
+01-01-2010,Colgate,FMCG,6919
+01-01-2010,Morgan Stanley,Financial Services,6911
+01-01-2010,Volkswagen,Automotive,6892
+01-01-2010,BlackBerry,Electronics,6762
+01-01-2010,MTV,Media,6719
+01-01-2010,AXA,Financial Services,6694
+01-01-2010,Nestlé,FMCG,6548
+01-01-2010,Danone,FMCG,6363
+01-01-2010,Xerox,Business Services,6109
+01-01-2010,KFC,Restaurants,5844
+01-01-2010,Sprite,Beverages,5777
+01-01-2010,adidas,Sporting Goods,5495
+01-01-2010,Audi,Automotive,5461
+01-01-2010,Avon,FMCG,5072
+01-01-2010,Hyundai,Automotive,5033
+01-01-2010,Yahoo!,Media,4958
+01-01-2010,Allianz,Financial Services,4904
+01-01-2010,Banco Santander,Financial Services,4846
+01-01-2010,Hermès,Luxury,4782
+01-01-2010,Caterpillar,Diversified,4704
+01-01-2010,Kleenex,FMCG,4536
+01-01-2010,Porsche,Automotive,4404
+01-01-2010,Panasonic,Electronics,4351
+01-01-2010,BARCLAYS,Financial Services,4218
+01-01-2010,Johnson & Johnson,FMCG,4155
+01-01-2010,Tiffany & Co.,Luxury,4127
+01-01-2010,Cartier,Luxury,4052
+01-01-2010,Jack Daniel's,Alcohol,4036
+01-01-2010,Moët & Chandon,Alcohol,4021
+01-01-2010,Credit Suisse,Financial Services,4010
+01-01-2010,Shell,Energy,4003
+01-01-2010,Visa,Financial Services,3998
+01-01-2010,Pizza Hut,Restaurants,3973
+01-01-2010,Gap,Apparel,3961
+01-01-2010,Corona,Alcohol,3847
+01-01-2010,UBS,Financial Services,3812
+01-01-2010,Nivea,FMCG,3734
+01-01-2010,Adobe,Business Services,3626
+01-01-2010,Smirnoff,Alcohol,3624
+01-01-2010,3M,Diversified,3586
+01-01-2010,Ferrari,Automotive,3562
+01-01-2010,Johnnie Walker,Alcohol,3557
+01-01-2010,Heineken,Alcohol,3516
+01-01-2010,ZURICH,Financial Services,3496
+01-01-2010,Armani,Luxury,3443
+01-01-2010,Lancôme,FMCG,3403
+01-01-2010,Starbucks,Restaurants,3339
+01-01-2010,Harley-Davidson,Automotive,3281
+01-01-2010,Campbell's,FMCG,3241
+01-01-2010,Burberry,Luxury,3110
+01-01-2011,Coca-Cola,Beverages,71861
+01-01-2011,IBM,Business Services,69905
+01-01-2011,Microsoft,Technology,59087
+01-01-2011,Google,Technology,55317
+01-01-2011,GE,Diversified,42808
+01-01-2011,McDonald's,Restaurants,35593
+01-01-2011,Intel,Technology,35217
+01-01-2011,Apple,Technology,33492
+01-01-2011,Disney,Media,29018
+01-01-2011,HP,Electronics,28479
+01-01-2011,Toyota,Automotive,27764
+01-01-2011,Mercedes-Benz,Automotive,27445
+01-01-2011,Cisco,Business Services,25309
+01-01-2011,Nokia,Technology,25071
+01-01-2011,BMW,Automotive,24554
+01-01-2011,Gillette,FMCG,23997
+01-01-2011,Samsung,Technology,23430
+01-01-2011,Louis Vuitton,Luxury,23172
+01-01-2011,Honda,Automotive,19431
+01-01-2011,Oracle,Business Services,17262
+01-01-2011,H&M,Apparel,16459
+01-01-2011,Pepsi,Beverages,14590
+01-01-2011,American Express,Financial Services,14572
+01-01-2011,SAP,Business Services,14542
+01-01-2011,Nike,Sporting Goods,14528
+01-01-2011,Amazon,Technology,12758
+01-01-2011,UPS,Logistics,12536
+01-01-2011,J.P. Morgan,Financial Services,12437
+01-01-2011,Budweiser,Alcohol,12252
+01-01-2011,NESCAFÉ,Beverages,12115
+01-01-2011,IKEA,Retail,11863
+01-01-2011,HSBC,Financial Services,11792
+01-01-2011,Canon,Electronics,11715
+01-01-2011,Kellogg's,FMCG,11372
+01-01-2011,Sony,Electronics,9880
+01-01-2011,eBay,Retail,9805
+01-01-2011,Thomson Reuters,Media,9515
+01-01-2011,Goldman Sachs,Financial Services,9091
+01-01-2011,Gucci,Luxury,8763
+01-01-2011,L'Oréal,FMCG,8699
+01-01-2011,Philips,Electronics,8658
+01-01-2011,Citi,Financial Services,8620
+01-01-2011,Dell,Electronics,8347
+01-01-2011,Zara,Apparel,8065
+01-01-2011,Accenture,Business Services,8005
+01-01-2011,Siemens,Diversified,7900
+01-01-2011,Volkswagen,Automotive,7857
+01-01-2011,Nintendo,Electronics,7731
+01-01-2011,Heinz,FMCG,7609
+01-01-2011,Ford,Automotive,7483
+01-01-2011,Colgate,FMCG,7127
+01-01-2011,Danone,FMCG,6936
+01-01-2011,AXA,Financial Services,6694
+01-01-2011,Morgan Stanley,Financial Services,6634
+01-01-2011,Nestlé,FMCG,6613
+01-01-2011,BlackBerry,Electronics,6424
+01-01-2011,Xerox,Business Services,6414
+01-01-2011,MTV,Media,6383
+01-01-2011,Audi,Automotive,6171
+01-01-2011,adidas,Sporting Goods,6154
+01-01-2011,Hyundai,Automotive,6005
+01-01-2011,KFC,Restaurants,5902
+01-01-2011,Sprite,Beverages,5604
+01-01-2011,Caterpillar,Diversified,5598
+01-01-2011,Avon,FMCG,5376
+01-01-2011,Hermès,Luxury,5356
+01-01-2011,Allianz,Financial Services,5345
+01-01-2011,Banco Santander,Financial Services,5088
+01-01-2011,Panasonic,Electronics,5047
+01-01-2011,Cartier,Luxury,4781
+01-01-2011,Kleenex,FMCG,4672
+01-01-2011,Porsche,Automotive,4580
+01-01-2011,Tiffany & Co.,Luxury,4498
+01-01-2011,Shell,Energy,4483
+01-01-2011,Visa,Financial Services,4478
+01-01-2011,Yahoo!,Media,4413
+01-01-2011,Moët & Chandon,Alcohol,4383
+01-01-2011,Jack Daniel's,Alcohol,4319
+01-01-2011,BARCLAYS,Financial Services,4259
+01-01-2011,Adobe,Business Services,4170
+01-01-2011,Pizza Hut,Restaurants,4092
+01-01-2011,Credit Suisse,Financial Services,4090
+01-01-2011,Johnson & Johnson,FMCG,4072
+01-01-2011,Gap,Apparel,4040
+01-01-2011,3M,Diversified,3945
+01-01-2011,Corona,Alcohol,3924
+01-01-2011,Nivea,FMCG,3883
+01-01-2011,Johnnie Walker,Alcohol,3842
+01-01-2011,Smirnoff,Alcohol,3841
+01-01-2011,Nissan,Automotive,3819
+01-01-2011,Heineken,Alcohol,3809
+01-01-2011,UBS,Financial Services,3799
+01-01-2011,Armani,Luxury,3794
+01-01-2011,ZURICH,Financial Services,3769
+01-01-2011,Burberry,Luxury,3732
+01-01-2011,Starbucks,Restaurants,3663
+01-01-2011,John Deere,Diversified,3651
+01-01-2011,HTC,Electronics,3605
+01-01-2011,Ferrari,Automotive,3591
+01-01-2011,Harley-Davidson,Automotive,3512
+01-01-2012,Coca-Cola,Beverages,77839
+01-01-2012,Apple,Technology,76568
+01-01-2012,IBM,Business Services,75532
+01-01-2012,Google,Technology,69726
+01-01-2012,Microsoft,Technology,57853
+01-01-2012,GE,Diversified,43682
+01-01-2012,McDonald's,Restaurants,40062
+01-01-2012,Intel,Technology,39385
+01-01-2012,Samsung,Technology,32893
+01-01-2012,Toyota,Automotive,30280
+01-01-2012,Mercedes-Benz,Automotive,30097
+01-01-2012,BMW,Automotive,29052
+01-01-2012,Disney,Media,27438
+01-01-2012,Cisco,Business Services,27197
+01-01-2012,HP,Electronics,26087
+01-01-2012,Gillette,FMCG,24898
+01-01-2012,Louis Vuitton,Luxury,23577
+01-01-2012,Oracle,Business Services,22126
+01-01-2012,Nokia,Technology,21009
+01-01-2012,Amazon,Technology,18625
+01-01-2012,Honda,Automotive,17280
+01-01-2012,Pepsi,Beverages,16594
+01-01-2012,H&M,Apparel,16571
+01-01-2012,American Express,Financial Services,15702
+01-01-2012,SAP,Business Services,15641
+01-01-2012,Nike,Sporting Goods,15126
+01-01-2012,UPS,Logistics,13088
+01-01-2012,IKEA,Retail,12808
+01-01-2012,Kellogg's,FMCG,12068
+01-01-2012,Canon,Electronics,12029
+01-01-2012,Budweiser,Alcohol,11872
+01-01-2012,J.P. Morgan,Financial Services,11471
+01-01-2012,HSBC,Financial Services,11378
+01-01-2012,Pampers,FMCG,11296
+01-01-2012,NESCAFÉ,Beverages,11089
+01-01-2012,eBay,Retail,10947
+01-01-2012,Zara,Apparel,9488
+01-01-2012,Gucci,Luxury,9446
+01-01-2012,Volkswagen,Automotive,9252
+01-01-2012,Sony,Electronics,9111
+01-01-2012,Philips,Electronics,9066
+01-01-2012,L'Oréal,FMCG,8821
+01-01-2012,Accenture,Business Services,8745
+01-01-2012,Thomson Reuters,Media,8444
+01-01-2012,Ford,Automotive,7958
+01-01-2012,Heinz,FMCG,7722
+01-01-2012,Colgate,FMCG,7643
+01-01-2012,Goldman Sachs,Financial Services,7599
+01-01-2012,Dell,Electronics,7591
+01-01-2012,Citi,Financial Services,7570
+01-01-2012,Siemens,Diversified,7534
+01-01-2012,Danone,FMCG,7498
+01-01-2012,Hyundai,Automotive,7473
+01-01-2012,Morgan Stanley,Financial Services,7218
+01-01-2012,Audi,Automotive,7196
+01-01-2012,Nintendo,Electronics,7082
+01-01-2012,Nestlé,FMCG,6916
+01-01-2012,AXA,Financial Services,6748
+01-01-2012,Xerox,Business Services,6714
+01-01-2012,adidas,Sporting Goods,6699
+01-01-2012,Caterpillar,Diversified,6306
+01-01-2012,Allianz,Financial Services,6184
+01-01-2012,Hermès,Luxury,6182
+01-01-2012,KFC,Restaurants,5994
+01-01-2012,Panasonic,Electronics,5765
+01-01-2012,Sprite,Beverages,5709
+01-01-2012,MTV,Media,5648
+01-01-2012,Cartier,Luxury,5495
+01-01-2012,Facebook,Technology,5421
+01-01-2012,Tiffany & Co.,Luxury,5159
+01-01-2012,Avon,FMCG,5151
+01-01-2012,Porsche,Automotive,5149
+01-01-2012,Nissan,Automotive,4969
+01-01-2012,Visa,Financial Services,4944
+01-01-2012,Shell,Energy,4788
+01-01-2012,Banco Santander,Financial Services,4771
+01-01-2012,3M,Diversified,4656
+01-01-2012,Adobe,Business Services,4557
+01-01-2012,Johnson & Johnson,FMCG,4378
+01-01-2012,Kleenex,FMCG,4360
+01-01-2012,Jack Daniel's,Alcohol,4352
+01-01-2012,Burberry,Luxury,4342
+01-01-2012,Johnnie Walker,Alcohol,4301
+01-01-2012,Prada,Luxury,4271
+01-01-2012,John Deere,Diversified,4221
+01-01-2012,Pizza Hut,Restaurants,4193
+01-01-2012,Kia,Automotive,4089
+01-01-2012,Starbucks,Restaurants,4062
+01-01-2012,Corona,Alcohol,4061
+01-01-2012,Smirnoff,Alcohol,4050
+01-01-2012,Ralph Lauren,Apparel,4038
+01-01-2012,Heineken,Alcohol,3939
+01-01-2012,BlackBerry,Electronics,3922
+01-01-2012,Mastercard,Financial Services,3896
+01-01-2012,Credit Suisse,Financial Services,3866
+01-01-2012,Harley-Davidson,Automotive,3857
+01-01-2012,Yahoo!,Media,3851
+01-01-2012,Moët & Chandon,Alcohol,3824
+01-01-2012,Ferrari,Automotive,3770
+01-01-2012,Gap,Apparel,3731
+01-01-2013,Apple,Technology,98316
+01-01-2013,Google,Technology,93291
+01-01-2013,Coca-Cola,Beverages,79213
+01-01-2013,IBM,Business Services,78808
+01-01-2013,Microsoft,Technology,59546
+01-01-2013,GE,Diversified,46947
+01-01-2013,McDonald's,Restaurants,41992
+01-01-2013,Samsung,Technology,39610
+01-01-2013,Intel,Technology,37257
+01-01-2013,Toyota,Automotive,35346
+01-01-2013,Mercedes-Benz,Automotive,31904
+01-01-2013,BMW,Automotive,31839
+01-01-2013,Cisco,Business Services,29053
+01-01-2013,Disney,Media,28147
+01-01-2013,HP,Electronics,25843
+01-01-2013,Gillette,FMCG,25105
+01-01-2013,Louis Vuitton,Luxury,24893
+01-01-2013,Oracle,Business Services,24088
+01-01-2013,Amazon,Technology,23620
+01-01-2013,Honda,Automotive,18490
+01-01-2013,H&M,Apparel,18168
+01-01-2013,Pepsi,Beverages,17892
+01-01-2013,American Express,Financial Services,17646
+01-01-2013,Nike,Sporting Goods,17085
+01-01-2013,SAP,Business Services,16676
+01-01-2013,IKEA,Retail,13818
+01-01-2013,UPS,Logistics,13763
+01-01-2013,eBay,Retail,13162
+01-01-2013,Pampers,FMCG,13035
+01-01-2013,Kellogg's,FMCG,12987
+01-01-2013,Budweiser,Alcohol,12614
+01-01-2013,HSBC,Financial Services,12183
+01-01-2013,J.P. Morgan,Financial Services,11456
+01-01-2013,Volkswagen,Automotive,11120
+01-01-2013,Canon,Electronics,10989
+01-01-2013,Zara,Apparel,10821
+01-01-2013,NESCAFÉ,Beverages,10651
+01-01-2013,Gucci,Luxury,10151
+01-01-2013,L'Oréal,FMCG,9874
+01-01-2013,Philips,Electronics,9813
+01-01-2013,Accenture,Business Services,9471
+01-01-2013,Ford,Automotive,9181
+01-01-2013,Hyundai,Automotive,9004
+01-01-2013,Goldman Sachs,Financial Services,8536
+01-01-2013,Siemens,Diversified,8503
+01-01-2013,Sony,Electronics,8408
+01-01-2013,Thomson Reuters,Media,8103
+01-01-2013,Citi,Financial Services,7973
+01-01-2013,Danone,FMCG,7968
+01-01-2013,Colgate,FMCG,7833
+01-01-2013,Audi,Automotive,7767
+01-01-2013,Facebook,Technology,7732
+01-01-2013,Heinz,FMCG,7648
+01-01-2013,Hermès,Luxury,7616
+01-01-2013,adidas,Sporting Goods,7535
+01-01-2013,Nestlé,FMCG,7527
+01-01-2013,Nokia,Technology,7444
+01-01-2013,Caterpillar,Diversified,7125
+01-01-2013,AXA,Financial Services,7096
+01-01-2013,Cartier,Luxury,6897
+01-01-2013,Dell,Electronics,6845
+01-01-2013,Xerox,Business Services,6779
+01-01-2013,Allianz,Financial Services,6710
+01-01-2013,Porsche,Automotive,6471
+01-01-2013,Nissan,Automotive,6203
+01-01-2013,KFC,Restaurants,6192
+01-01-2013,Nintendo,Electronics,6086
+01-01-2013,Panasonic,Electronics,5821
+01-01-2013,Sprite,Beverages,5811
+01-01-2013,Discovery,Media,5756
+01-01-2013,Morgan Stanley,Financial Services,5724
+01-01-2013,Prada,Luxury,5570
+01-01-2013,Shell,Energy,5535
+01-01-2013,Visa,Financial Services,5465
+01-01-2013,Tiffany & Co.,Luxury,5440
+01-01-2013,3M,Diversified,5413
+01-01-2013,Burberry,Luxury,5189
+01-01-2013,MTV,Media,4980
+01-01-2013,Adobe,Business Services,4899
+01-01-2013,John Deere,Diversified,4865
+01-01-2013,Johnson & Johnson,FMCG,4777
+01-01-2013,Johnnie Walker,Alcohol,4745
+01-01-2013,Kia,Automotive,4708
+01-01-2013,Banco Santander,Financial Services,4660
+01-01-2013,Duracell,FMCG,4645
+01-01-2013,Jack Daniel's,Alcohol,4642
+01-01-2013,Avon,FMCG,4610
+01-01-2013,Ralph Lauren,Apparel,4584
+01-01-2013,Chevrolet,Automotive,4578
+01-01-2013,Kleenex,FMCG,4428
+01-01-2013,Starbucks,Restaurants,4399
+01-01-2013,Heineken,Alcohol,4331
+01-01-2013,Corona,Alcohol,4276
+01-01-2013,Pizza Hut,Restaurants,4269
+01-01-2013,Smirnoff,Alcohol,4262
+01-01-2013,Harley-Davidson,Automotive,4230
+01-01-2013,Mastercard,Financial Services,4206
+01-01-2013,Ferrari,Automotive,4013
+01-01-2013,Moët & Chandon,Alcohol,3943
+01-01-2013,Gap,Apparel,3920
+01-01-2014,Apple,Technology,118863
+01-01-2014,Google,Technology,107439
+01-01-2014,Coca-Cola,Beverages,81563
+01-01-2014,IBM,Business Services,72244
+01-01-2014,Microsoft,Technology,61154
+01-01-2014,GE,Diversified,45480
+01-01-2014,Samsung,Technology,45462
+01-01-2014,Toyota,Automotive,42392
+01-01-2014,McDonald's,Restaurants,42254
+01-01-2014,Mercedes-Benz,Automotive,34338
+01-01-2014,BMW,Automotive,34214
+01-01-2014,Intel,Technology,34153
+01-01-2014,Disney,Media,32223
+01-01-2014,Cisco,Business Services,30936
+01-01-2014,Amazon,Technology,29478
+01-01-2014,Oracle,Business Services,25980
+01-01-2014,HP,Electronics,23758
+01-01-2014,Gillette,FMCG,22845
+01-01-2014,Louis Vuitton,Luxury,22552
+01-01-2014,Honda,Automotive,21673
+01-01-2014,H&M,Apparel,21083
+01-01-2014,Nike,Sporting Goods,19875
+01-01-2014,American Express,Financial Services,19510
+01-01-2014,Pepsi,Beverages,19119
+01-01-2014,SAP,Business Services,17340
+01-01-2014,IKEA,Retail,15885
+01-01-2014,UPS,Logistics,14470
+01-01-2014,eBay,Retail,14358
+01-01-2014,Facebook,Technology,14349
+01-01-2014,Pampers,FMCG,14078
+01-01-2014,Volkswagen,Automotive,13716
+01-01-2014,Kellogg's,FMCG,13442
+01-01-2014,HSBC,Financial Services,13142
+01-01-2014,Budweiser,Alcohol,13024
+01-01-2014,J.P. Morgan,Financial Services,12456
+01-01-2014,Zara,Apparel,12126
+01-01-2014,Canon,Electronics,11702
+01-01-2014,NESCAFÉ,Beverages,11406
+01-01-2014,Ford,Automotive,10876
+01-01-2014,Hyundai,Automotive,10409
+01-01-2014,Gucci,Luxury,10385
+01-01-2014,Philips,Electronics,10264
+01-01-2014,L'Oréal,FMCG,10162
+01-01-2014,Accenture,Business Services,9882
+01-01-2014,Audi,Automotive,9831
+01-01-2014,Hermès,Luxury,8977
+01-01-2014,Goldman Sachs,Financial Services,8758
+01-01-2014,Citi,Financial Services,8737
+01-01-2014,Siemens,Diversified,8672
+01-01-2014,Colgate,FMCG,8215
+01-01-2014,Danone,FMCG,8205
+01-01-2014,Sony,Electronics,8133
+01-01-2014,AXA,Financial Services,8120
+01-01-2014,Nestlé,FMCG,8000
+01-01-2014,Allianz,Financial Services,7702
+01-01-2014,Nissan,Automotive,7623
+01-01-2014,Thomson Reuters,Media,7472
+01-01-2014,Cartier,Luxury,7449
+01-01-2014,adidas,Sporting Goods,7378
+01-01-2014,Porsche,Automotive,7171
+01-01-2014,Caterpillar,Diversified,6812
+01-01-2014,Xerox,Business Services,6641
+01-01-2014,Morgan Stanley,Financial Services,6334
+01-01-2014,Panasonic,Electronics,6303
+01-01-2014,Shell,Energy,6288
+01-01-2014,3M,Diversified,6177
+01-01-2014,Discovery,Media,6143
+01-01-2014,KFC,Restaurants,6059
+01-01-2014,Visa,Financial Services,5998
+01-01-2014,Prada,Luxury,5977
+01-01-2014,Tiffany & Co.,Luxury,5936
+01-01-2014,Sprite,Beverages,5646
+01-01-2014,Burberry,Luxury,5594
+01-01-2014,Kia,Automotive,5396
+01-01-2014,Banco Santander,Financial Services,5382
+01-01-2014,Starbucks,Restaurants,5382
+01-01-2014,Adobe,Business Services,5333
+01-01-2014,Johnson & Johnson,FMCG,5194
+01-01-2014,John Deere,Diversified,5124
+01-01-2014,MTV,Media,5102
+01-01-2014,DHL,Logistics,5084
+01-01-2014,Chevrolet,Automotive,5036
+01-01-2014,Ralph Lauren,Apparel,4979
+01-01-2014,Duracell,FMCG,4935
+01-01-2014,Jack Daniel's,Alcohol,4884
+01-01-2014,Johnnie Walker,Alcohol,4842
+01-01-2014,Harley-Davidson,Automotive,4772
+01-01-2014,Mastercard,Financial Services,4758
+01-01-2014,Kleenex,FMCG,4643
+01-01-2014,Smirnoff,Alcohol,4609
+01-01-2014,Land Rover,Automotive,4473
+01-01-2014,FedEx,Logistics,4414
+01-01-2014,Corona,Alcohol,4387
+01-01-2014,Huawei,Technology,4313
+01-01-2014,Heineken,Alcohol,4221
+01-01-2014,Pizza Hut,Restaurants,4196
+01-01-2014,Hugo Boss,Apparel,4143
+01-01-2014,Nokia,Technology,4138
+01-01-2014,Gap,Apparel,4122
+01-01-2014,Nintendo,Electronics,4103
+01-01-2015,Apple,Technology,170276
+01-01-2015,Google,Technology,120314
+01-01-2015,Coca-Cola,Beverages,78423
+01-01-2015,Microsoft,Technology,67670
+01-01-2015,IBM,Business Services,65095
+01-01-2015,Toyota,Automotive,49048
+01-01-2015,Samsung,Technology,45297
+01-01-2015,GE,Diversified,42267
+01-01-2015,McDonald's,Restaurants,39809
+01-01-2015,Amazon,Technology,37948
+01-01-2015,BMW,Automotive,37212
+01-01-2015,Mercedes-Benz,Automotive,36711
+01-01-2015,Disney,Media,36514
+01-01-2015,Intel,Technology,35415
+01-01-2015,Cisco,Business Services,29854
+01-01-2015,Oracle,Business Services,27283
+01-01-2015,Nike,Sporting Goods,23070
+01-01-2015,HP,Electronics,23056
+01-01-2015,Honda,Automotive,22975
+01-01-2015,Louis Vuitton,Luxury,22250
+01-01-2015,H&M,Apparel,22222
+01-01-2015,Gillette,FMCG,22218
+01-01-2015,Facebook,Technology,22029
+01-01-2015,Pepsi,Beverages,19622
+01-01-2015,American Express,Financial Services,18922
+01-01-2015,SAP,Business Services,18768
+01-01-2015,IKEA,Retail,16541
+01-01-2015,Pampers,FMCG,15267
+01-01-2015,UPS,Logistics,14723
+01-01-2015,Zara,Apparel,14031
+01-01-2015,Budweiser,Alcohol,13943
+01-01-2015,eBay,Retail,13940
+01-01-2015,J.P. Morgan,Financial Services,13749
+01-01-2015,Kellogg's,FMCG,12637
+01-01-2015,Volkswagen,Automotive,12545
+01-01-2015,NESCAFÉ,Beverages,12257
+01-01-2015,HSBC,Financial Services,11656
+01-01-2015,Ford,Automotive,11578
+01-01-2015,Hyundai,Automotive,11293
+01-01-2015,Canon,Electronics,11278
+01-01-2015,Hermès,Luxury,10944
+01-01-2015,Accenture,Business Services,10800
+01-01-2015,L'Oréal,FMCG,10798
+01-01-2015,Audi,Automotive,10328
+01-01-2015,Citi,Financial Services,9784
+01-01-2015,Goldman Sachs,Financial Services,9526
+01-01-2015,Philips,Electronics,9400
+01-01-2015,AXA,Financial Services,9254
+01-01-2015,Nissan,Automotive,9082
+01-01-2015,Gucci,Luxury,8882
+01-01-2015,Danone,FMCG,8632
+01-01-2015,Nestlé,FMCG,8588
+01-01-2015,Siemens,Diversified,8553
+01-01-2015,Allianz,Financial Services,8498
+01-01-2015,Colgate,FMCG,8464
+01-01-2015,Porsche,Automotive,8055
+01-01-2015,Cartier,Luxury,7924
+01-01-2015,Sony,Electronics,7702
+01-01-2015,3M,Diversified,7243
+01-01-2015,Morgan Stanley,Financial Services,7083
+01-01-2015,Visa,Financial Services,6870
+01-01-2015,adidas,Sporting Goods,6811
+01-01-2015,Thomson Reuters,Media,6583
+01-01-2015,Discovery,Media,6509
+01-01-2015,Panasonic,Electronics,6436
+01-01-2015,Tiffany & Co.,Luxury,6306
+01-01-2015,Starbucks,Restaurants,6266
+01-01-2015,Adobe,Business Services,6257
+01-01-2015,Prada,Luxury,6222
+01-01-2015,Banco Santander,Financial Services,6097
+01-01-2015,Xerox,Business Services,6033
+01-01-2015,Caterpillar,Diversified,5976
+01-01-2015,Burberry,Luxury,5873
+01-01-2015,Kia,Automotive,5666
+01-01-2015,KFC,Restaurants,5639
+01-01-2015,Mastercard,Financial Services,5551
+01-01-2015,Johnson & Johnson,FMCG,5533
+01-01-2015,Shell,Energy,5530
+01-01-2015,Harley-Davidson,Automotive,5460
+01-01-2015,DHL,Logistics,5391
+01-01-2015,Sprite,Beverages,5365
+01-01-2015,LEGO,FMCG,5362
+01-01-2015,John Deere,Diversified,5208
+01-01-2015,Jack Daniel's,Alcohol,5161
+01-01-2015,Chevrolet,Automotive,5133
+01-01-2015,FedEx,Logistics,5130
+01-01-2015,Land Rover,Automotive,5109
+01-01-2015,Huawei,Technology,4952
+01-01-2015,Heineken,Alcohol,4822
+01-01-2015,MTV,Media,4763
+01-01-2015,Ralph Lauren,Apparel,4629
+01-01-2015,Johnnie Walker,Alcohol,4540
+01-01-2015,Corona,Alcohol,4456
+01-01-2015,Smirnoff,Alcohol,4407
+01-01-2015,Kleenex,FMCG,4330
+01-01-2015,Hugo Boss,Apparel,4270
+01-01-2015,PayPal,Financial Services,4251
+01-01-2015,MINI,Automotive,4243
+01-01-2015,Moët & Chandon,Alcohol,4131
+01-01-2015,Lenovo,Technology,4114
+01-01-2016,Apple,Technology,178119
+01-01-2016,Google,Technology,133252
+01-01-2016,Coca-Cola,Beverages,73102
+01-01-2016,Microsoft,Technology,72795
+01-01-2016,Toyota,Automotive,53580
+01-01-2016,IBM,Business Services,52500
+01-01-2016,Samsung,Technology,51808
+01-01-2016,Amazon,Technology,50338
+01-01-2016,Mercedes-Benz,Automotive,43490
+01-01-2016,GE,Diversified,43130
+01-01-2016,BMW,Automotive,41535
+01-01-2016,McDonald's,Restaurants,39381
+01-01-2016,Disney,Media,38790
+01-01-2016,Intel,Technology,36952
+01-01-2016,Facebook,Technology,32593
+01-01-2016,Cisco,Business Services,30948
+01-01-2016,Oracle,Business Services,26552
+01-01-2016,Nike,Sporting Goods,25034
+01-01-2016,Louis Vuitton,Luxury,23998
+01-01-2016,H&M,Apparel,22681
+01-01-2016,Honda,Automotive,22106
+01-01-2016,SAP,Business Services,21293
+01-01-2016,Pepsi,Beverages,20265
+01-01-2016,Gillette,FMCG,19950
+01-01-2016,American Express,Financial Services,18358
+01-01-2016,IKEA,Retail,17834
+01-01-2016,Zara,Apparel,16766
+01-01-2016,Pampers,FMCG,16134
+01-01-2016,UPS,Logistics,15333
+01-01-2016,Budweiser,Alcohol,15099
+01-01-2016,J.P. Morgan,Financial Services,14227
+01-01-2016,eBay,Retail,13136
+01-01-2016,Ford,Automotive,12962
+01-01-2016,Hermès,Luxury,12833
+01-01-2016,Hyundai,Automotive,12547
+01-01-2016,NESCAFÉ,Beverages,12517
+01-01-2016,Accenture,Business Services,12033
+01-01-2016,Audi,Automotive,11799
+01-01-2016,Kellogg's,FMCG,11711
+01-01-2016,Volkswagen,Automotive,11436
+01-01-2016,Philips,Electronics,11336
+01-01-2016,Canon,Electronics,11081
+01-01-2016,Nissan,Automotive,11066
+01-01-2016,Hewlett Packard Enterprise,Business Services,11027
+01-01-2016,L'Oréal,FMCG,10930
+01-01-2016,AXA,Financial Services,10579
+01-01-2016,HSBC,Financial Services,10458
+01-01-2016,HP,Electronics,10386
+01-01-2016,Citi,Financial Services,10276
+01-01-2016,Porsche,Automotive,9537
+01-01-2016,Allianz,Financial Services,9528
+01-01-2016,Siemens,Diversified,9415
+01-01-2016,Gucci,Luxury,9385
+01-01-2016,Goldman Sachs,Financial Services,9378
+01-01-2016,Danone,FMCG,9197
+01-01-2016,Nestlé,FMCG,8708
+01-01-2016,Colgate,FMCG,8413
+01-01-2016,Sony,Electronics,8315
+01-01-2016,3M,Diversified,8199
+01-01-2016,adidas,Sporting Goods,7885
+01-01-2016,Visa,Financial Services,7747
+01-01-2016,Cartier,Luxury,7738
+01-01-2016,Adobe,Business Services,7586
+01-01-2016,Starbucks,Restaurants,7490
+01-01-2016,Morgan Stanley,Financial Services,7200
+01-01-2016,Thomson Reuters,Media,6830
+01-01-2016,LEGO,FMCG,6691
+01-01-2016,Panasonic,Electronics,6365
+01-01-2016,Kia,Automotive,6326
+01-01-2016,Banco Santander,Financial Services,6223
+01-01-2016,Discovery,Media,5944
+01-01-2016,Huawei,Technology,5835
+01-01-2016,Johnson & Johnson,FMCG,5790
+01-01-2016,Tiffany & Co.,Luxury,5761
+01-01-2016,KFC,Restaurants,5742
+01-01-2016,Mastercard,Financial Services,5736
+01-01-2016,DHL,Logistics,5708
+01-01-2016,Land Rover,Automotive,5696
+01-01-2016,FedEx,Logistics,5579
+01-01-2016,Harley-Davidson,Automotive,5527
+01-01-2016,Prada,Luxury,5504
+01-01-2016,Caterpillar,Diversified,5425
+01-01-2016,Burberry,Luxury,5362
+01-01-2016,Xerox,Business Services,5290
+01-01-2016,Jack Daniel's,Alcohol,5193
+01-01-2016,Sprite,Beverages,5148
+01-01-2016,Heineken,Alcohol,5123
+01-01-2016,MINI,Automotive,4986
+01-01-2016,Dior,Luxury,4909
+01-01-2016,PayPal,Financial Services,4839
+01-01-2016,John Deere,Diversified,4815
+01-01-2016,Shell,Energy,4599
+01-01-2016,Corona,Alcohol,4509
+01-01-2016,MTV,Media,4320
+01-01-2016,Johnnie Walker,Alcohol,4317
+01-01-2016,Smirnoff,Alcohol,4252
+01-01-2016,Moët & Chandon,Alcohol,4118
+01-01-2016,Ralph Lauren,Apparel,4092
+01-01-2016,Lenovo,Technology,4045
+01-01-2016,Tesla,Automotive,4011
+01-01-2017,Apple,Technology,184154
+01-01-2017,Google,Technology,141703
+01-01-2017,Microsoft,Technology,79999
+01-01-2017,Coca-Cola,Beverages,69733
+01-01-2017,Amazon,Technology,64796
+01-01-2017,Samsung,Technology,56249
+01-01-2017,Toyota,Automotive,50291
+01-01-2017,Facebook,Technology,48188
+01-01-2017,Mercedes-Benz,Automotive,47829
+01-01-2017,IBM,Business Services,46829
+01-01-2017,GE,Diversified,44208
+01-01-2017,McDonald's,Restaurants,41533
+01-01-2017,BMW,Automotive,41521
+01-01-2017,Disney,Media,40772
+01-01-2017,Intel,Technology,39459
+01-01-2017,Cisco,Business Services,31930
+01-01-2017,Oracle,Business Services,27466
+01-01-2017,Nike,Sporting Goods,27021
+01-01-2017,Louis Vuitton,Luxury,22919
+01-01-2017,Honda,Automotive,22696
+01-01-2017,SAP,Business Services,22635
+01-01-2017,Pepsi,Beverages,20491
+01-01-2017,H&M,Apparel,20488
+01-01-2017,Zara,Apparel,18573
+01-01-2017,IKEA,Retail,18472
+01-01-2017,Gillette,FMCG,18200
+01-01-2017,American Express,Financial Services,17787
+01-01-2017,Pampers,FMCG,16416
+01-01-2017,UPS,Logistics,16387
+01-01-2017,J.P. Morgan,Financial Services,15749
+01-01-2017,Budweiser,Alcohol,15375
+01-01-2017,Hermès,Luxury,14210
+01-01-2017,Ford,Automotive,13643
+01-01-2017,eBay,Retail,13224
+01-01-2017,Hyundai,Automotive,13193
+01-01-2017,NESCAFÉ,Beverages,12661
+01-01-2017,Accenture,Business Services,12471
+01-01-2017,Audi,Automotive,12023
+01-01-2017,Nissan,Automotive,11534
+01-01-2017,Volkswagen,Automotive,11522
+01-01-2017,Philips,Electronics,11519
+01-01-2017,AXA,Financial Services,11073
+01-01-2017,Kellogg's,FMCG,10972
+01-01-2017,Goldman Sachs,Financial Services,10864
+01-01-2017,L'Oréal,FMCG,10674
+01-01-2017,Citi,Financial Services,10599
+01-01-2017,HSBC,Financial Services,10534
+01-01-2017,Porsche,Automotive,10129
+01-01-2017,Allianz,Financial Services,10059
+01-01-2017,Siemens,Diversified,9982
+01-01-2017,Gucci,Luxury,9969
+01-01-2017,Canon,Electronics,9788
+01-01-2017,HP,Electronics,9541
+01-01-2017,Danone,FMCG,9322
+01-01-2017,adidas,Sporting Goods,9216
+01-01-2017,Adobe,Business Services,9060
+01-01-2017,Hewlett Packard Enterprise,Business Services,8951
+01-01-2017,3M,Diversified,8947
+01-01-2017,Nestlé,FMCG,8728
+01-01-2017,Starbucks,Restaurants,8704
+01-01-2017,Sony,Electronics,8474
+01-01-2017,Colgate,FMCG,8325
+01-01-2017,Morgan Stanley,Financial Services,8205
+01-01-2017,Visa,Financial Services,7815
+01-01-2017,Cartier,Luxury,7547
+01-01-2017,Thomson Reuters,Media,7100
+01-01-2017,LEGO,FMCG,7024
+01-01-2017,Banco Santander,Financial Services,6702
+01-01-2017,Kia,Automotive,6683
+01-01-2017,Huawei,Technology,6676
+01-01-2017,Mastercard,Financial Services,6350
+01-01-2017,FedEx,Logistics,6255
+01-01-2017,Land Rover,Automotive,6095
+01-01-2017,Johnson & Johnson,FMCG,6041
+01-01-2017,Panasonic,Electronics,5983
+01-01-2017,DHL,Logistics,5715
+01-01-2017,Harley-Davidson,Automotive,5671
+01-01-2017,Netflix,Media,5592
+01-01-2017,Discovery,Media,5411
+01-01-2017,PayPal,Financial Services,5408
+01-01-2017,Tiffany & Co.,Luxury,5394
+01-01-2017,Jack Daniel's,Alcohol,5332
+01-01-2017,KFC,Restaurants,5313
+01-01-2017,Salesforce.com,Business Services,5224
+01-01-2017,Heineken,Alcohol,5181
+01-01-2017,Burberry,Luxury,5135
+01-01-2017,MINI,Automotive,5114
+01-01-2017,Ferrari,Automotive,4876
+01-01-2017,Caterpillar,Diversified,4868
+01-01-2017,Sprite,Beverages,4842
+01-01-2017,Shell,Energy,4823
+01-01-2017,John Deere,Diversified,4783
+01-01-2017,Corona,Alcohol,4776
+01-01-2017,Prada,Luxury,4716
+01-01-2017,Dior,Luxury,4587
+01-01-2017,Johnnie Walker,Alcohol,4405
+01-01-2017,Smirnoff,Alcohol,4288
+01-01-2017,Tesla,Automotive,4009
+01-01-2017,Moët & Chandon,Alcohol,4006
+01-01-2017,Lenovo,Technology,4004
+01-01-2018,Apple,Technology,214480
+01-01-2018,Google,Technology,155506
+01-01-2018,Amazon,Technology,100764
+01-01-2018,Microsoft,Technology,92715
+01-01-2018,Coca-Cola,Beverages,66341
+01-01-2018,Samsung,Technology,59890
+01-01-2018,Toyota,Automotive,53404
+01-01-2018,Mercedes-Benz,Automotive,48601
+01-01-2018,Facebook,Technology,45168
+01-01-2018,McDonald's,Restaurants,43417
+01-01-2018,Intel,Technology,43293
+01-01-2018,IBM,Business Services,42972
+01-01-2018,BMW,Automotive,41006
+01-01-2018,Disney,Media,39874
+01-01-2018,Cisco,Business Services,34575
+01-01-2018,GE,Diversified,32757
+01-01-2018,Nike,Sporting Goods,30120
+01-01-2018,Louis Vuitton,Luxury,28152
+01-01-2018,Oracle,Business Services,26133
+01-01-2018,Honda,Automotive,23682
+01-01-2018,SAP,Business Services,22885
+01-01-2018,Pepsi,Beverages,20798
+01-01-2018,Chanel,Luxury,20005
+01-01-2018,American Express,Financial Services,19139
+01-01-2018,Zara,Apparel,17712
+01-01-2018,J.P. Morgan,Financial Services,17567
+01-01-2018,IKEA,Retail,17458
+01-01-2018,Gillette,FMCG,16864
+01-01-2018,UPS,Logistics,16849
+01-01-2018,H&M,Apparel,16826
+01-01-2018,Pampers,FMCG,16617
+01-01-2018,Hermès,Luxury,16372
+01-01-2018,Budweiser,Alcohol,15627
+01-01-2018,Accenture,Business Services,14214
+01-01-2018,Ford,Automotive,13995
+01-01-2018,Hyundai,Automotive,13535
+01-01-2018,NESCAFÉ,Beverages,13053
+01-01-2018,eBay,Retail,13017
+01-01-2018,Gucci,Luxury,12942
+01-01-2018,Nissan,Automotive,12213
+01-01-2018,Volkswagen,Automotive,12201
+01-01-2018,Audi,Automotive,12187
+01-01-2018,Philips,Electronics,12104
+01-01-2018,Goldman Sachs,Financial Services,11769
+01-01-2018,Citi,Financial Services,11577
+01-01-2018,HSBC,Financial Services,11208
+01-01-2018,AXA,Financial Services,11118
+01-01-2018,L'Oréal,FMCG,11102
+01-01-2018,Allianz,Financial Services,10821
+01-01-2018,adidas,Sporting Goods,10772
+01-01-2018,Adobe,Business Services,10748
+01-01-2018,Porsche,Automotive,10707
+01-01-2018,Kellogg's,FMCG,10634
+01-01-2018,HP,Electronics,10433
+01-01-2018,Canon,Electronics,10380
+01-01-2018,Siemens,Diversified,10132
+01-01-2018,Starbucks,Restaurants,9615
+01-01-2018,Danone,FMCG,9533
+01-01-2018,Sony,Electronics,9316
+01-01-2018,3M,Diversified,9104
+01-01-2018,Visa,Financial Services,9021
+01-01-2018,Nestlé,FMCG,8938
+01-01-2018,Morgan Stanley,Financial Services,8802
+01-01-2018,Colgate,FMCG,8659
+01-01-2018,Hewlett Packard Enterprise,Business Services,8157
+01-01-2018,Netflix,Media,8111
+01-01-2018,Cartier,Luxury,7646
+01-01-2018,Huawei,Technology,7578
+01-01-2018,Banco Santander,Financial Services,7547
+01-01-2018,Mastercard,Financial Services,7545
+01-01-2018,Kia,Automotive,6925
+01-01-2018,FedEx,Logistics,6890
+01-01-2018,PayPal,Financial Services,6621
+01-01-2018,LEGO,FMCG,6533
+01-01-2018,Salesforce.com,Business Services,6432
+01-01-2018,Panasonic,Electronics,6293
+01-01-2018,Johnson & Johnson,FMCG,6231
+01-01-2018,Land Rover,Automotive,6221
+01-01-2018,DHL,Logistics,5881
+01-01-2018,Ferrari,Automotive,5760
+01-01-2018,Discovery,Media,5755
+01-01-2018,Caterpillar,Diversified,5730
+01-01-2018,Tiffany & Co.,Luxury,5642
+01-01-2018,Jack Daniel's,Alcohol,5641
+01-01-2018,Corona,Alcohol,5517
+01-01-2018,KFC,Restaurants,5481
+01-01-2018,Heineken,Alcohol,5393
+01-01-2018,John Deere,Diversified,5375
+01-01-2018,Shell,Energy,5276
+01-01-2018,MINI,Automotive,5254
+01-01-2018,Dior,Luxury,5223
+01-01-2018,Spotify,Media,5176
+01-01-2018,Harley-Davidson,Automotive,5161
+01-01-2018,Burberry,Luxury,4989
+01-01-2018,Prada,Luxury,4812
+01-01-2018,Sprite,Beverages,4733
+01-01-2018,Johnnie Walker,Alcohol,4731
+01-01-2018,Hennessy,Alcohol,4722
+01-01-2018,Nintendo,Electronics,4696
+01-01-2018,Subaru,Automotive,4214
+01-01-2019,Apple,Technology,234241
+01-01-2019,Google,Technology,167713
+01-01-2019,Amazon,Technology,125263
+01-01-2019,Microsoft,Technology,108847
+01-01-2019,Coca-Cola,Beverages,63365
+01-01-2019,Samsung,Technology,61098
+01-01-2019,Toyota,Automotive,56246
+01-01-2019,Mercedes-Benz,Automotive,50832
+01-01-2019,McDonald's,Restaurants,45362
+01-01-2019,Disney,Media,44352
+01-01-2019,BMW,Automotive,41440
+01-01-2019,IBM,Business Services,40381
+01-01-2019,Intel,Technology,40197
+01-01-2019,Facebook,Technology,39857
+01-01-2019,Cisco,Business Services,35559
+01-01-2019,Nike,Sporting Goods,32376
+01-01-2019,Louis Vuitton,Luxury,32223
+01-01-2019,Oracle,Business Services,26288
+01-01-2019,GE,Diversified,25566
+01-01-2019,SAP,Business Services,25092
+01-01-2019,Honda,Automotive,24422
+01-01-2019,Chanel,Luxury,22134
+01-01-2019,American Express,Financial Services,21629
+01-01-2019,Pepsi,Beverages,20488
+01-01-2019,J.P. Morgan,Financial Services,19044
+01-01-2019,IKEA,Retail,18407
+01-01-2019,UPS,Logistics,18072
+01-01-2019,Hermès,Luxury,17920
+01-01-2019,Zara,Apparel,17175
+01-01-2019,H&M,Apparel,16345
+01-01-2019,Accenture,Business Services,16205
+01-01-2019,Budweiser,Alcohol,16018
+01-01-2019,Gucci,Luxury,15949
+01-01-2019,Pampers,FMCG,15773
+01-01-2019,Ford,Automotive,14325
+01-01-2019,Hyundai,Automotive,14156
+01-01-2019,Gillette,FMCG,13753
+01-01-2019,NESCAFÉ,Beverages,13605
+01-01-2019,Adobe,Business Services,12937
+01-01-2019,Volkswagen,Automotive,12921
+01-01-2019,Citi,Financial Services,12697
+01-01-2019,Audi,Automotive,12689
+01-01-2019,Allianz,Financial Services,12078
+01-01-2019,eBay,Retail,12010
+01-01-2019,adidas,Sporting Goods,11992
+01-01-2019,AXA,Financial Services,11830
+01-01-2019,HSBC,Financial Services,11816
+01-01-2019,Starbucks,Restaurants,11798
+01-01-2019,Philips,Electronics,11661
+01-01-2019,Porsche,Automotive,11652
+01-01-2019,L'Oréal,FMCG,11589
+01-01-2019,Nissan,Automotive,11502
+01-01-2019,Goldman Sachs,Financial Services,11352
+01-01-2019,HP,Electronics,10891
+01-01-2019,Visa,Financial Services,10756
+01-01-2019,Sony,Electronics,10514
+01-01-2019,Kellogg's,FMCG,10419
+01-01-2019,Siemens,Diversified,10259
+01-01-2019,Danone,FMCG,9915
+01-01-2019,Nestlé,FMCG,9534
+01-01-2019,Canon,Electronics,9482
+01-01-2019,Mastercard,Financial Services,9430
+01-01-2019,Dell,Electronics,9086
+01-01-2019,3M,Diversified,9035
+01-01-2019,Netflix,Media,8963
+01-01-2019,Colgate,FMCG,8824
+01-01-2019,Banco Santander,Financial Services,8521
+01-01-2019,Cartier,Luxury,8192
+01-01-2019,Morgan Stanley,Financial Services,8185
+01-01-2019,Salesforce.com,Business Services,8004
+01-01-2019,Hewlett Packard Enterprise,Business Services,7909
+01-01-2019,PayPal,Financial Services,7604
+01-01-2019,FedEx,Logistics,6998
+01-01-2019,Huawei,Technology,6887
+01-01-2019,LEGO,FMCG,6884
+01-01-2019,Caterpillar,Diversified,6791
+01-01-2019,Ferrari,Automotive,6458
+01-01-2019,Kia,Automotive,6428
+01-01-2019,Corona,Alcohol,6369
+01-01-2019,Jack Daniel's,Alcohol,6347
+01-01-2019,Panasonic,Electronics,6189
+01-01-2019,Dior,Luxury,6045
+01-01-2019,DHL,Logistics,5987
+01-01-2019,John Deere,Diversified,5883
+01-01-2019,Land Rover,Automotive,5855
+01-01-2019,Johnson & Johnson,FMCG,5720
+01-01-2019,Uber,Technology,5714
+01-01-2019,Heineken,Alcohol,5626
+01-01-2019,Nintendo,Electronics,5550
+01-01-2019,MINI,Automotive,5532
+01-01-2019,Discovery,Media,5525
+01-01-2019,Spotify,Media,5516
+01-01-2019,KFC,Restaurants,5509
+01-01-2019,Tiffany & Co.,Luxury,5335
+01-01-2019,Hennessy,Alcohol,5297
+01-01-2019,Burberry,Luxury,5205
+01-01-2019,Shell,Energy,5105
+01-01-2019,LinkedIn,Media,4836
+01-01-2019,Harley-Davidson,Automotive,4793
+01-01-2019,Prada,Luxury,4781
