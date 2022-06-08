@@ -1,7 +1,29 @@
 <!DOCTYPE html>
 <html>
-<body>
-<iframe width="100%" height="801.015625" frameborder="0"
+  <head>
+    <title>Largest companies by market cap — US Stock Market</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <iframe width="100%" height="801.015625" frameborder="0"
   src="https://observablehq.com/embed/@the-pythor/bar-chart-race-explained?cells=chart%2Ctitle%2Cviewof+replay"></iframe>
-</body>
+    <script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div>
+  <svg id="my_dataviz" height=300 width=450></svg>
+</div>
+<script>
+
+// select the svg area
+var svg = d3.select("#my_dataviz")
+
+// Handmade legend
+svg.append("circle").attr("cx",200).attr("cy",130).attr("r", 6).style("fill", "#95AFCA")
+svg.append("circle").attr("cx",200).attr("cy",160).attr("r", 6).style("fill", "#F7BB80")
+svg.append("text").attr("x", 220).attr("y", 130).text("Companies").style("font-size", "15px").attr("alignment-baseline","middle")
+svg.append("text").attr("x", 220).attr("y", 160).text("Bitcoin(Crypto)").style("font-size", "15px").attr("alignment-baseline","middle")
+
+</script>
+  </body>
 </html>
